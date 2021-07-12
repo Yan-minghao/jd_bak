@@ -110,7 +110,7 @@ autoHelp "东东工厂好友互助码" "${logDir}/jd_jdfactory.log" "DDFACTORY_S
 autoHelp "crazyJoy任务好友互助码" "${logDir}/jd_crazy_joy.log" "JDJOY_SHARECODES"
 
 #京喜财福岛
-autoHelp "京喜财富岛好友互助码" "${logDir}/jd_cfd.log" "JDCFD_SHARECODES"
+#autoHelp "京喜财富岛好友互助码" "${logDir}/jd_cfd.log" "JDCFD_SHARECODES"
 
 #京喜农场
 autoHelp "京喜农场好友互助码" "${logDir}/jd_jxnc.log" "JXNC_SHARECODES"
