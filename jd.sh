@@ -26,7 +26,7 @@ function Import_Conf() {
       exit 1
     fi
   else
-    echo -e "配置文件 ${FileConf} 不存在，请先按教程配置好该文件...\n"
+    echo -e "配置文件 ${FileConf} 不存在， ...\n"
     exit 1
   fi
 }
@@ -103,7 +103,7 @@ function Combin_All() {
   ## 京东赚赚(jd_jdzz.js)
   export JDZZ_SHARECODES=$(Combin_Sub ForOtherJdzz)
   ## 疯狂的Joy(jd_crazy_joy.js)
-  export JDJOY_SHARECODES=$(Combin_Sub ForOtherJoy)
+  ##export JDJOY_SHARECODES=$(Combin_Sub ForOtherJoy)
   ## 口袋书店(jd_bookshop.js)
   export BOOKSHOP_SHARECODES=$(Combin_Sub ForOtherBookShop)
   ## 签到领现金(jd_cash.js)
@@ -113,7 +113,7 @@ function Combin_All() {
   ## 闪购盲盒(jd_sgmh.js)
   export JDSGMH_SHARECODES=$(Combin_Sub ForOtherSgmh)
   ## 京喜财富岛(jd_cfd.js)
-  export JDCFD_SHARECODES=$(Combin_Sub ForOtherCfd)
+  ##export JDCFD_SHARECODES=$(Combin_Sub ForOtherCfd)
   ## 环球挑战赛(jd_global.js)
   export JDGLOBAL_SHARECODES=$(Combin_Sub ForOtherGlobal)
   ## 城城领现金(jd_city.js)
