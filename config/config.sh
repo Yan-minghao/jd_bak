@@ -27,9 +27,9 @@
 ## 2. 还可以通过浏览器开发工具获取，此方式获得的Cookie只有1个月有效期，教程：https://github.com/SuperManito/JD-FreeFuck/wiki/GetCookies
 ## 必须按数字顺序1、2、3、4...依次编号下去，例子只有6个，超出6个您继续往下编号即可
 ## 不允许有汉字，如果ID有汉字，请在PC浏览器上获取Cookie，会自动将汉字转换为URL编码
-Cookie1="pt_key=AAJg6FKdADAYcxraiDGp-1gB2Z1yloE8cKll2m8j6Dt8DJ_hnr9bviGC_7ZyM9hFpwrP0QEkMSA;pt_pin=15631692383_p;"#ymh
-Cookie2="pt_key=AAJgyXlpADCbiQNFIkD-nCTlNQ2lgRpk1XQwaJVzITfAsIVk5TqAfN_mJByVHbfPqWf7rxVe4Zw;pt_pin=jd_74a8d71c978d9;"#mm
-Cookie3=""
+Cookie1="pt_key=AAJg6FKdADAYcxraiDGp-1gB2Z1yloE8cKll2m8j6Dt8DJ_hnr9bviGC_7ZyM9hFpwrP0QEkMSA;pt_pin=15631692383_p;"#major
+Cookie2="pt_key=AAJgyXlpADCbiQNFIkD-nCTlNQ2lgRpk1XQwaJVzITfAsIVk5TqAfN_mJByVHbfPqWf7rxVe4Zw;pt_pin=jd_74a8d71c978d9;"#spring
+Cookie3=""#zjj
 Cookie4=""
 Cookie5=""
 Cookie6=""
