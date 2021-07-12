@@ -1,0 +1,66 @@
+
+🔔宠汪汪🐕喂食, 开始!
+
+====================共4个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/1/2021, 7:58:42 AM=====================
+
+您设置的喂食数量::10g
+
+实际的喂食数量::10g
+
+
+❗️宠汪汪🐕喂食, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_joy_feedPets.js:134:23
+    at /opt/jd/scripts/jd_joy_feedPets.js:273:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+
+
+您设置的喂食数量::10g
+
+实际的喂食数量::10g
+
+
+❗️宠汪汪🐕喂食, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_joy_feedPets.js:134:23
+    at /opt/jd/scripts/jd_joy_feedPets.js:273:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+
+
+您设置的喂食数量::10g
+
+实际的喂食数量::10g
+
+
+❗️宠汪汪🐕喂食, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_joy_feedPets.js:134:23
+    at /opt/jd/scripts/jd_joy_feedPets.js:273:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+
+
+您设置的喂食数量::10g
+
+实际的喂食数量::10g
+
+
+❗️宠汪汪🐕喂食, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_joy_feedPets.js:134:23
+    at /opt/jd/scripts/jd_joy_feedPets.js:273:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+
+
+
+🔔宠汪汪🐕喂食, 结束! 🕛 230.906 秒
+

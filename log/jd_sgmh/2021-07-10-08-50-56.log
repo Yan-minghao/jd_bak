@@ -1,0 +1,56 @@
+
+🔔闪购盲盒, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 8:50:56 AM=====================
+
+开始获取闪购盲盒配置文件
+
+共2个京东账号
+
+您提供了0个账号的闪购盲盒助力码
+
+"getaddrinfo ENOTFOUND wq.jd.com"
+闪购盲盒 API请求失败，请检查网路重试
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVQmoaT5kRrbA","T010_aU6SR8Q_QCjVQmoaT5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVQmoaT5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVQmoaT5kRrbA"]
+
+******开始【京东账号1】15631692383_p*********
+
+
+❗️闪购盲盒, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_sgmh.js:104:23
+    at /opt/jd/scripts/jd_sgmh.js:393:5780
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号1】
+任务已完成，本次运行获得京豆0
+"getaddrinfo ENOTFOUND wq.jd.com"
+闪购盲盒 API请求失败，请检查网路重试
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第2个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVQmoaT5kRrbA","T010_aU6SR8Q_QCjVQmoaT5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVQmoaT5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVQmoaT5kRrbA"]
+
+******开始【京东账号2】jd_74a8d71c978d9*********
+
+"Timeout awaiting 'request' for 10000ms"
+闪购盲盒 API请求失败，请检查网路重试
+
+❗️闪购盲盒, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_sgmh.js:104:23
+    at /opt/jd/scripts/jd_sgmh.js:393:5780
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号2】
+任务已完成，本次运行获得京豆0
+
+🔔闪购盲盒, 结束! 🕛 60.317 秒
+
+"Timeout awaiting 'request' for 10000ms"
+闪购盲盒 API请求失败，请检查网路重试

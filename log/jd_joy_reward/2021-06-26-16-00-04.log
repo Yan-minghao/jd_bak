@@ -1,0 +1,62 @@
+
+🔔宠汪汪积分兑换奖品, 开始!
+
+====================共4个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：6/26/2021, 4:00:04 PM=====================
+
+
+*****开始【京东账号1】15631692383_p****
+
+脚本开始请求时间 2021-06-26 16:00:06 | 978
+
+debug场次:beanConfigs16
+
+
+❗️宠汪汪积分兑换奖品, 错误!
+TypeError: data[giftSaleInfos] is not iterable
+    at joyReward (/opt/jd/scripts/jd_joy_reward.js:139:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy_reward.js:88:7
+
+*****开始【京东账号2】Ycp_Dream****
+
+脚本开始请求时间 2021-06-26 16:00:08 | 144
+
+debug场次:beanConfigs16
+
+
+❗️宠汪汪积分兑换奖品, 错误!
+TypeError: data[giftSaleInfos] is not iterable
+    at joyReward (/opt/jd/scripts/jd_joy_reward.js:139:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy_reward.js:88:7
+
+*****开始【京东账号3】jd_585601a83bd48****
+
+脚本开始请求时间 2021-06-26 16:00:09 | 685
+
+debug场次:beanConfigs16
+
+
+❗️宠汪汪积分兑换奖品, 错误!
+TypeError: data[giftSaleInfos] is not iterable
+    at joyReward (/opt/jd/scripts/jd_joy_reward.js:139:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy_reward.js:88:7
+
+*****开始【京东账号4】jd_157332ewky****
+
+脚本开始请求时间 2021-06-26 16:00:11 | 969
+
+debug场次:beanConfigs16
+
+
+❗️宠汪汪积分兑换奖品, 错误!
+TypeError: data[giftSaleInfos] is not iterable
+    at joyReward (/opt/jd/scripts/jd_joy_reward.js:139:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy_reward.js:88:7
+
+🔔宠汪汪积分兑换奖品, 结束! 🕛 7.627 秒
+

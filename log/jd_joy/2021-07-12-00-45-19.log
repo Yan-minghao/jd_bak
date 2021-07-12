@@ -1,0 +1,46 @@
+
+🔔宠汪汪, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/12/2021, 12:45:19 AM=====================
+
+
+开始【京东账号1】Ymh__Sirius
+
+您设置的喂食数量:10g
+
+实际的喂食数量:10g
+
+其他状态success
+
+❗️宠汪汪, 错误!
+TypeError: $.getPetTaskConfigRes.datas is not iterable
+    at petTask (/opt/jd/scripts/jd_joy.js:230:42)
+    at jdJoy (/opt/jd/scripts/jd_joy.js:111:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy.js:83:7
+
+
+
+
+开始【京东账号2】Ycp_Dream
+
+您设置的喂食数量:10g
+
+实际的喂食数量:10g
+
+其他状态success
+
+❗️宠汪汪, 错误!
+TypeError: $.getPetTaskConfigRes.datas is not iterable
+    at petTask (/opt/jd/scripts/jd_joy.js:230:42)
+    at jdJoy (/opt/jd/scripts/jd_joy.js:111:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_joy.js:83:7
+
+
+
+
+🔔宠汪汪, 结束! 🕛 1.072 秒
+

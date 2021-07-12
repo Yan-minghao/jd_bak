@@ -1,0 +1,907 @@
+
+🔔美丽研究院, 开始!
+
+====================共5个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/7/2021, 8:52:38 PM=====================
+
+
+******开始【京东账号1】15631692383_p*********
+
+***检测账号是否黑号***
+isvToken:AAEAIBEQfZJaLPPFBqlWOV9UaMANdfNLIa-wyxUeRr6ikEo40
+token2:AAFg5aOXADCP-FEUCowXaqloO4954IYevA9S0qyQQ6w2uX_hppHKWz0JNoW0ufwBp1uG4tpTu9M
+【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyMzU5LCJleHAiOjE2MjU3MDU1NTksIm5iZiI6MTYyNTY2MjM1OSwianRpIjoiSWRjSEVoYU5VMzcyQVlEZSIsInN1YiI6MTY0MDA2NCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.V7cq1sGHuM2ZeLoqpiuYRyZJucDs_rUu7kZUoCUuqik
+美容研究院服务器连接成功
+操作成功，账号正常
+服务器连接关闭
+wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyMzU5LCJleHAiOjE2MjU3MDU1NTksIm5iZiI6MTYyNTY2MjM1OSwianRpIjoiSWRjSEVoYU5VMzcyQVlEZSIsInN1YiI6MTY0MDA2NCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.V7cq1sGHuM2ZeLoqpiuYRyZJucDs_rUu7kZUoCUuqik
+美容研究院服务器连接成功
+
+开始任务：""check_up"
+去领取第3次签到奖励
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【油脂】50份 【保湿剂】990份 【矿物质水】99份 【颜料】3份 【滑石粉】646份 【树脂】965份 【滋润剂】294份 【香料】100份 【乙醇】231份 【蜂蜡】247份 【胶合剂】100份 
+
+开始任务：""check_up_receive"
+任务完成成功，获得100美妆币
+
+开始任务：""get_ad"
+当期活动：美妆馆日常
+
+开始任务：""get_user"
+当前美妆币1700，用户等级3
+helpInfo []
+
+开始任务：""shop_products"
+去做关注店铺任务
+
+开始任务：""get_produce_material"
+get_produce_material 操作成功
+
+开始任务：""product_producing"
+
+开始任务：""new_product_fetch"
+收取产品【香水】33份
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【油脂】50份 【保湿剂】990份 【矿物质水】99份 【颜料】3份 【滑石粉】646份 【树脂】965份 【滋润剂】294份 【香料】100份 【乙醇】231份 【蜂蜡】247份 【胶合剂】100份 
+========原料生产信息========
+
+开始任务：""new_product_fetch"
+收取产品【粉饼】24份
+
+开始任务：""produce_position_info_v2"
+【h1】上尚未开始生产
+$.needs:[]
+elsema:{"id":13,"name":"乙醇","type":"base","level":3,"unit_time":30,"describe":"其蒸发速度较快，将化妆品的香味更快散逸，具有辅助卸妆效力","unit_name":"个","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8442d52d91586b6d55f00171f67d78f1.png","coins":15,"sort":40,"start_at":"2020-11-20 14:00:19","end_at":"2028-01-02 14:00:19","created_at":"2020-11-20 14:02:02","updated_at":"2021-04-02 00:06:28"}
+ma booleamtrue
+去生产乙醇
+
+开始任务：""product_lists"
+========可生产商品信息========
+生产【粉饼】需要原料“滑石粉2 份” （库存 646 份）需要原料“颜料4 份” （库存 3 份）需要原料“胶合剂2 份” （库存 100 份）
+【粉饼】原料不足，无法生产
+生产【香水】需要原料“矿物质水3 份” （库存 99 份）需要原料“香料3 份” （库存 100 份）需要原料“乙醇1 份” （库存 231 份），可生产 33份
+【香水】可生产份数大于0，去生产
+
+开始任务：""produce_position_info_v2"
+【s2】上尚未开始生产
+$.needs:[]
+elsema:undefined
+ma booleamfalse
+生产【口红】需要原料“油脂2 份” （库存 50 份）需要原料“颜料4 份” （库存 3 份）需要原料“蜂蜡2 份” （库存 247 份）
+【口红】原料不足，无法生产
+=======================
+
+开始任务：""produce_position_info_v2"
+【h2】上尚未开始生产
+$.needs:[{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5},{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5}]
+ma:{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5}
+ma booleamtrue
+去生产颜料
+去做关注店铺【法国娇韵诗京东自营旗舰店】
+
+开始任务：""get_user"
+当前美妆币1900，用户等级3
+
+开始任务：""produce_position_info_v2"
+【b2】上尚未开始生产
+$.needs:[{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5}]
+ma:{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5}
+ma booleamtrue
+去生产颜料
+
+开始任务：""produce_position_info_v2"
+【b1】上正在生产【蜂蜡】，可收取 0 份
+去收取蜂蜡
+
+开始任务：""produce_position_info_v2"
+【s1】上正在生产【胶合剂】，可收取 0 份
+去收取胶合剂
+
+开始任务：""material_produce_v2"
+【h1】上开始生产乙醇
+
+开始任务：""material_fetch_v2"
+【s1】收取成功，获得undefined份
+
+
+开始任务：""to_employee"
+雇佣助力码【b3jjKdXS】
+
+开始任务：""collect_coins"
+收取成功，获得0美妆币，当前总美妆币：1900
+
+
+开始任务：""to_employee"
+雇佣助力码【R6fQ6PyF】
+
+开始任务：""get_benefit"
+benefit:{"id":7,"type":1,"name":"京豆","coins":"1000","description":"1 京豆","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":0,"day_limit":8,"level_limit":1,"times_limit":0,"initial_stock":16000000,"stock":"81504006","sort":100000,"status":1,"setting":{"beans_count":"1","gift_bag":"0"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:12","all_exchange_count":96,"day_exchange_count":"3"}
+
+开始任务：""product_produce"
+生产成功
+
+开始任务：""material_fetch_v2"
+【b1】收取成功，获得undefined份
+
+
+开始任务：""material_produce_v2"
+【h2】上开始生产颜料
+
+开始任务：""shop_view"
+任务完成成功，获得50美妆币
+
+开始任务：""material_produce_v2"
+【b2】上开始生产颜料
+
+开始任务：""to_employee"
+雇佣助力码【xVPA8kjh】
+
+开始任务：""to_exchange"
+兑换10京豆成功;{"data":{"coins":-1000,"user_coins":950},"msg":"操作成功","code":200,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【RvAJjQOB】
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【6lSSNN7L】
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+benefit:{"id":9,"type":1,"name":"京豆大礼包(0点限量)","coins":"100000","description":"500颗京豆打包兑换","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":20,"day_limit":1,"level_limit":1,"times_limit":0,"initial_stock":1000,"stock":"-6","sort":99999,"status":1,"setting":{"beans_count":"500","gift_bag":"1"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:19","all_exchange_count":0,"day_exchange_count":0}
+本次运行获得美妆币150
+服务器连接关闭
+
+==============📣系统通知📣==============
+美丽研究院
+京东账号115631692383_p
+本次运行获得美妆币150枚
+当前美妆币1950
+
+******开始【京东账号2】Ycp_Dream*********
+
+***检测账号是否黑号***
+isvToken:AAEAIOR-J7828pIIxLWJPkj0y7R7AjHv1oGh84qePDK0HTn-0
+token2:AAFg5aPmADCkMmiCo3SMYDr7QK-vNjcTzBInmNvIKMikJd63opDpbdcFbaVDc194jFY1hR6Kvx0
+【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNDM4LCJleHAiOjE2MjU3MDU2MzgsIm5iZiI6MTYyNTY2MjQzOCwianRpIjoiRXgyYXJtUTFqMkJ4WlRWcSIsInN1YiI6MjkzNjYwNCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.udE5FTj-QFwIdLIZo3I1SvJU_0jD1va43EuStypY_00
+美容研究院服务器连接成功
+操作成功，账号正常
+服务器连接关闭
+wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNDM4LCJleHAiOjE2MjU3MDU2MzgsIm5iZiI6MTYyNTY2MjQzOCwianRpIjoiRXgyYXJtUTFqMkJ4WlRWcSIsInN1YiI6MjkzNjYwNCwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.udE5FTj-QFwIdLIZo3I1SvJU_0jD1va43EuStypY_00
+美容研究院服务器连接成功
+helpInfo [
+  '{"msg":{"type":"action","args":{"inviter_id":"1640064","position":"b1","token":"b3jjKdXS"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"1640064","position":"s1","token":"R6fQ6PyF"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"1640064","position":"h1","token":"xVPA8kjh"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"1640064","position":"h2","token":"RvAJjQOB"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"1640064","position":"b2","token":"6lSSNN7L"},"action":"employee"}}'
+]
+
+开始任务：""get_ad"
+当期活动：美妆馆日常
+
+开始任务：""get_user"
+当前美妆币1160，用户等级2
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_package"
+仓库信息:【乳化剂】198份 【颜料】32份 【矿物质水】132份 【保湿剂】231份 【滑石粉】51份 【油脂】99份 【香料】1份 【树脂】188份 
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""shop_products"
+去做关注店铺任务
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""check_up"
+去领取第3次签到奖励
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_produce_material"
+get_produce_material 操作成功
+
+开始任务：""product_producing"
+
+开始任务：""product_lists"
+========可生产商品信息========
+生产【腮红】需要原料“滑石粉1 份” （库存 51 份）需要原料“颜料3 份” （库存 32 份）需要原料“香料2 份” （库存 1 份）
+【腮红】原料不足，无法生产
+need_material:[{"id":11,"name":"香料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/176fb5d65fba788bb4c6c01fce361ed7.png","coins":10},{"id":14,"name":"滋润剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10}]
+生产【乳液】需要原料“矿物质水1 份” （库存 132 份）需要原料“保湿剂1 份” （库存 231 份）需要原料“滋润剂3 份” (没有库存)
+【乳液】原料不足，无法生产
+生产【指甲油】需要原料“树脂2 份” （库存 188 份）需要原料“颜料4 份” （库存 32 份），可生产 8份
+【指甲油】可生产份数大于0，去生产
+
+开始任务：""get_package"
+仓库信息:【乳化剂】198份 【颜料】32份 【矿物质水】132份 【保湿剂】231份 【滑石粉】51份 【油脂】99份 【香料】1份 【树脂】188份 
+========原料生产信息========
+=======================
+
+开始任务：""check_up_receive"
+任务完成成功，获得100美妆币
+
+开始任务：""new_product_fetch"
+收取产品【乳液】60份
+
+开始任务：""produce_position_info_v2"
+【h1】上正在生产【滋润剂】，可收取 0 份
+去收取滋润剂
+
+开始任务：""new_product_fetch"
+收取产品【腮红】44份
+
+开始任务：""produce_position_info_v2"
+【s1】上正在生产【香料】，可收取 0 份
+去收取香料
+
+开始任务：""produce_position_info_v2"
+【h2】上正在生产【颜料】，可收取 0 份
+去收取颜料
+
+开始任务：""produce_position_info_v2"
+【b2】上正在生产【保湿剂】，可收取 0 份
+去收取保湿剂
+
+开始任务：""product_produce"
+生产成功
+
+开始任务：""collect_coins"
+收取成功，获得320美妆币，当前总美妆币：1680
+
+
+开始任务：""produce_position_info_v2"
+【b1】上正在生产【树脂】，可收取 0 份
+去收取树脂
+
+开始任务：""produce_position_info_v2"
+【s2】上正在生产【滑石粉】，可收取 0 份
+去收取滑石粉
+
+开始任务：""material_fetch_v2"
+【s1】收取成功，获得undefined份
+
+
+开始任务：""material_fetch_v2"
+【h1】收取成功，获得undefined份
+
+
+开始任务：""to_employee"
+雇佣助力码【A1QBeiKo】
+
+开始任务：""material_fetch_v2"
+【h2】收取成功，获得undefined份
+
+
+开始任务：""get_benefit"
+benefit:{"id":7,"type":1,"name":"京豆","coins":"1000","description":"1 京豆","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":0,"day_limit":8,"level_limit":1,"times_limit":0,"initial_stock":16000000,"stock":"81503831","sort":100000,"status":1,"setting":{"beans_count":"1","gift_bag":"0"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:12","all_exchange_count":21,"day_exchange_count":"3"}
+
+开始任务：""get_user"
+当前美妆币1360，用户等级2
+
+开始任务：""material_fetch_v2"
+【b1】收取成功，获得undefined份
+
+去做关注店铺【阿芙京东自营官方旗舰店】
+
+开始任务：""to_exchange"
+兑换10京豆成功;{"data":{"coins":-1000,"user_coins":680},"msg":"操作成功","code":200,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【nfVuRekH】
+
+开始任务：""to_employee"
+雇佣助力码【n6PL3ZbL】
+
+开始任务：""to_employee"
+雇佣助力码【p2cpk7SD】
+
+开始任务：""to_employee"
+雇佣助力码【VJKyUTbD】
+
+开始任务：""material_fetch_v2"
+【b2】收取成功，获得undefined份
+
+
+开始任务：""material_fetch_v2"
+【s2】收取成功，获得undefined份
+
+
+开始任务：""to_employee"
+雇佣助力码【9gtcbWMC】
+
+开始任务：""shop_view"
+任务完成成功，获得0美妆币
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+benefit:{"id":9,"type":1,"name":"京豆大礼包(0点限量)","coins":"100000","description":"500颗京豆打包兑换","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":20,"day_limit":1,"level_limit":1,"times_limit":0,"initial_stock":1000,"stock":"-6","sort":99999,"status":1,"setting":{"beans_count":"500","gift_bag":"1"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:19","all_exchange_count":0,"day_exchange_count":0}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+本次运行获得美妆币100
+服务器连接关闭
+
+==============📣系统通知📣==============
+美丽研究院
+京东账号2Ycp_Dream
+本次运行获得美妆币100枚
+当前美妆币680
+
+******开始【京东账号3】jd_585601a83bd48*********
+
+***检测账号是否黑号***
+isvToken:AAEAILophUcewdtvMWCL6b9Gr7u-5-ulue3mSTOJY8iCZAIi0
+token2:AAFg5aQxADB4U-vLOMHhQ_45xdw54sHQC-_9JuIVKtSm0nRZyAqO1Ifk6Xv6WUCRWrVU-UBlp-E
+【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNTEzLCJleHAiOjE2MjU3MDU3MTMsIm5iZiI6MTYyNTY2MjUxMywianRpIjoiRnRaRGlXU2pvVWVFNE4ybCIsInN1YiI6MjU0ODg0MywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.j5bbrLaBDMkjisNZClIP0cvwtQyUFqe_dyFLeZ9WzYw
+美容研究院服务器连接成功
+操作成功，账号正常
+服务器连接关闭
+wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNTEzLCJleHAiOjE2MjU3MDU3MTMsIm5iZiI6MTYyNTY2MjUxMywianRpIjoiRnRaRGlXU2pvVWVFNE4ybCIsInN1YiI6MjU0ODg0MywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.j5bbrLaBDMkjisNZClIP0cvwtQyUFqe_dyFLeZ9WzYw
+美容研究院服务器连接成功
+helpInfo [
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"h1","token":"A1QBeiKo"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"s1","token":"nfVuRekH"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"h2","token":"n6PL3ZbL"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"b2","token":"p2cpk7SD"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"b1","token":"VJKyUTbD"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2936604","position":"s2","token":"9gtcbWMC"},"action":"employee"}}'
+]
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""check_up"
+去领取第3次签到奖励
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【保湿剂】100份 【矿物质水】199份 【颜料】298份 【油脂】100份 【滑石粉】100份 【香料】198份 【树脂】99份 
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_user"
+当前美妆币1320，用户等级2
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_ad"
+当期活动：美妆馆日常
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""check_up_receive"
+任务完成成功，获得100美妆币
+
+开始任务：""shop_products"
+
+开始任务：""get_produce_material"
+get_produce_material 操作成功
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【保湿剂】100份 【矿物质水】199份 【颜料】298份 【油脂】100份 【滑石粉】100份 【香料】198份 【树脂】99份 
+
+开始任务：""product_lists"
+========可生产商品信息========
+生产【腮红】需要原料“滑石粉1 份” （库存 100 份）需要原料“颜料3 份” （库存 298 份）需要原料“香料2 份” （库存 198 份），可生产 99份
+【腮红】可生产份数大于0，去生产
+========原料生产信息========
+
+开始任务：""product_producing"
+need_material:[{"id":14,"name":"滋润剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10}]
+生产【乳液】需要原料“矿物质水1 份” （库存 199 份）需要原料“保湿剂1 份” （库存 100 份）需要原料“滋润剂3 份” (没有库存)
+【乳液】原料不足，无法生产
+生产【指甲油】需要原料“树脂2 份” （库存 99 份）需要原料“颜料4 份” （库存 298 份），可生产 49份
+【指甲油】可生产份数大于0，去生产
+
+开始任务：""product_produce"
+生产成功
+=======================
+
+开始任务：""get_user"
+当前美妆币1420，用户等级2
+
+开始任务：""produce_position_info_v2"
+【s1】上尚未开始生产
+$.needs:[{"id":14,"name":"滋润剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10}]
+ma:{"id":14,"name":"滋润剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10}
+ma booleamtrue
+去生产滋润剂
+
+开始任务：""produce_position_info_v2"
+【b1】上正在生产【滋润剂】，可收取 0 份
+去收取滋润剂
+
+开始任务：""get_benefit"
+benefit:{"id":7,"type":1,"name":"京豆","coins":"1000","description":"1 京豆","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":0,"day_limit":8,"level_limit":1,"times_limit":0,"initial_stock":16000000,"stock":"81503675","sort":100000,"status":1,"setting":{"beans_count":"1","gift_bag":"0"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:12","all_exchange_count":11,"day_exchange_count":"2"}
+
+开始任务：""produce_position_info_v2"
+【b2】上正在生产【树脂】，可收取 0 份
+去收取树脂
+
+开始任务：""produce_position_info_v2"
+【h2】上尚未开始生产
+$.needs:[]
+elsema:undefined
+ma booleamfalse
+else去生产颜料
+
+开始任务：""product_produce"
+生产信息获取失败，错误信息材料不足
+
+开始任务：""produce_position_info_v2"
+【h1】上尚未开始生产
+$.needs:[]
+elsema:{"id":14,"name":"滋润剂","type":"base","level":2,"unit_time":20,"describe":"温和的亲油性物质，可以润滑皮肤、减少水分蒸发，诱导角质层进一步水化","unit_name":"瓶","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10,"sort":43,"start_at":"2020-11-20 14:01:17","end_at":"2028-01-30 14:01:17","created_at":"2020-11-20 14:02:03","updated_at":"2021-04-02 00:06:02"}
+ma booleamtrue
+去生产滋润剂
+
+开始任务：""produce_position_info_v2"
+【s2】上尚未开始生产
+$.needs:[]
+elsema:undefined
+ma booleamfalse
+else去生产滑石粉
+
+开始任务：""collect_coins"
+收取成功，获得0美妆币，当前总美妆币：1420
+
+
+开始任务：""material_produce_v2"
+【s1】上开始生产滋润剂
+
+开始任务：""material_fetch_v2"
+【b2】收取成功，获得undefined份
+
+
+开始任务：""material_fetch_v2"
+【b1】收取成功，获得undefined份
+
+
+开始任务：""to_employee"
+雇佣助力码【ms8rF19J】
+
+开始任务：""material_produce_v2"
+【h2】上开始生产颜料
+
+开始任务：""to_employee"
+雇佣助力码【HPjp3SMp】
+
+开始任务：""material_produce_v2"
+【s2】上开始生产滑石粉
+
+开始任务：""to_exchange"
+兑换10京豆成功;{"data":{"coins":-1000,"user_coins":420},"msg":"操作成功","code":200,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【kEGfOmcI】
+
+开始任务：""to_employee"
+雇佣助力码【9K54GLJg】
+
+开始任务：""to_employee"
+雇佣助力码【lAxMikB4】
+
+开始任务：""material_produce_v2"
+【h1】上开始生产滋润剂
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【sZ1hTIXL】
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+benefit:{"id":9,"type":1,"name":"京豆大礼包(0点限量)","coins":"100000","description":"500颗京豆打包兑换","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":20,"day_limit":1,"level_limit":1,"times_limit":0,"initial_stock":1000,"stock":"-6","sort":99999,"status":1,"setting":{"beans_count":"500","gift_bag":"1"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:19","all_exchange_count":0,"day_exchange_count":0}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+本次运行获得美妆币100
+服务器连接关闭
+
+==============📣系统通知📣==============
+美丽研究院
+京东账号3jd_585601a83bd48
+本次运行获得美妆币100枚
+当前美妆币1420
+
+******开始【京东账号4】jd_157332ewky*********
+
+***检测账号是否黑号***
+isvToken:AAEAIA-7EkuN4IUN2gkbTel8VfKOUBVFj5QLdcWf4mqJlJKg0
+token2:AAFg5aSJADAUX-UTEzjTTaZEpwaoG0ZxbkRgY0YxQ3RPo-hHK0oQpkX7ZKVh5A4_S2eDYuhuhHM
+【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNjA2LCJleHAiOjE2MjU3MDU4MDYsIm5iZiI6MTYyNTY2MjYwNiwianRpIjoibzZzSUV5Q3JnS01VeU14WSIsInN1YiI6MTY2MDc0NywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.zt4Y8QokjOn8B1BFSvwPgkQIYGY-fz1jpvPmi3YniIk
+美容研究院服务器连接成功
+操作成功，账号正常
+服务器连接关闭
+wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNjA2LCJleHAiOjE2MjU3MDU4MDYsIm5iZiI6MTYyNTY2MjYwNiwianRpIjoibzZzSUV5Q3JnS01VeU14WSIsInN1YiI6MTY2MDc0NywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.zt4Y8QokjOn8B1BFSvwPgkQIYGY-fz1jpvPmi3YniIk
+美容研究院服务器连接成功
+helpInfo [
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"b1","token":"ms8rF19J"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"b2","token":"HPjp3SMp"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"s1","token":"kEGfOmcI"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"h2","token":"9K54GLJg"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"s2","token":"lAxMikB4"},"action":"employee"}}',
+  '{"msg":{"type":"action","args":{"inviter_id":"2548843","position":"h1","token":"sZ1hTIXL"},"action":"employee"}}'
+]
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_user"
+当前美妆币3850，用户等级2
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【油脂】100份 【保湿剂】628份 【矿物质水】34份 【颜料】99份 【滑石粉】579份 【树脂】766份 【滋润剂】99份 【香料】67份 
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""employee"
+您今天已经被该好友雇佣过了，不能重复受雇
+
+开始任务：""check_up"
+去领取第3次签到奖励
+
+开始任务：""get_ad"
+当期活动：美妆馆日常
+
+开始任务：""product_producing"
+
+开始任务：""shop_products"
+去做第11次浏览会场任务
+
+开始任务：""get_produce_material"
+get_produce_material 操作成功
+========原料生产信息========
+
+开始任务：""check_up_receive"
+任务完成成功，获得100美妆币
+
+开始任务：""product_lists"
+========可生产商品信息========
+生产【腮红】需要原料“滑石粉1 份” （库存 579 份）需要原料“颜料3 份” （库存 99 份）需要原料“香料2 份” （库存 67 份），可生产 33份
+【腮红】可生产份数大于0，去生产
+
+开始任务：""produce_position_info_v2"
+【h2】上尚未开始生产
+$.needs:[]
+elsema:undefined
+ma booleamfalse
+else去生产颜料
+
+开始任务：""new_product_fetch"
+收取产品【腮红】16份
+
+开始任务：""get_package"
+仓库信息:【乳化剂】100份 【油脂】100份 【保湿剂】628份 【矿物质水】34份 【颜料】99份 【滑石粉】579份 【树脂】766份 【滋润剂】99份 【香料】67份 
+
+开始任务：""meetingplace_view"
+任务完成成功，获得100美妆币
+生产【乳液】需要原料“矿物质水1 份” （库存 34 份）需要原料“保湿剂1 份” （库存 628 份）需要原料“滋润剂3 份” （库存 99 份），可生产 33份
+【乳液】可生产份数大于0，去生产
+
+开始任务：""produce_position_info_v2"
+【b1】上尚未开始生产
+$.needs:[]
+elsema:{"id":7,"name":"树脂","type":"base","level":2,"unit_time":20,"describe":"由低分子物质聚合成高聚物，广泛应用于化妆品中","unit_name":"个","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5acb239d0a0bccc2c31d89cd01036ff3.png","coins":10,"sort":44,"start_at":"2020-11-20 13:52:49","end_at":"2023-12-31 13:52:49","created_at":"2020-11-20 13:56:50","updated_at":"2021-04-02 00:05:50"}
+ma booleamtrue
+去生产树脂
+
+开始任务：""produce_position_info_v2"
+【s1】上正在生产【滋润剂】，可收取 0 份
+去收取滋润剂
+
+开始任务：""produce_position_info_v2"
+【b2】上尚未开始生产
+$.needs:[]
+elsema:undefined
+ma booleamfalse
+else去生产保湿剂
+
+开始任务：""get_user"
+当前美妆币4150，用户等级2
+
+开始任务：""produce_position_info_v2"
+【h1】上尚未开始生产
+$.needs:[]
+elsema:{"id":14,"name":"滋润剂","type":"base","level":2,"unit_time":20,"describe":"温和的亲油性物质，可以润滑皮肤、减少水分蒸发，诱导角质层进一步水化","unit_name":"瓶","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/8ff5e799e3c182a3f54c2bfe42a78bb3.png","coins":10,"sort":43,"start_at":"2020-11-20 14:01:17","end_at":"2028-01-30 14:01:17","created_at":"2020-11-20 14:02:03","updated_at":"2021-04-02 00:06:02"}
+ma booleamtrue
+去生产滋润剂
+生产【指甲油】需要原料“树脂2 份” （库存 766 份）需要原料“颜料4 份” （库存 99 份），可生产 24份
+【指甲油】可生产份数大于0，去生产
+
+开始任务：""collect_coins"
+收取成功，获得1000美妆币，当前总美妆币：5150
+
+
+开始任务：""produce_position_info_v2"
+【s2】上正在生产【滑石粉】，可收取 0 份
+去收取滑石粉
+=======================
+
+开始任务：""material_produce_v2"
+【b2】上开始生产保湿剂
+本次运行获得美妆币200
+服务器连接关闭
+
+开始任务：""get_benefit"
+benefit:{"id":7,"type":1,"name":"京豆","coins":"1000","description":"1 京豆","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":0,"day_limit":8,"level_limit":1,"times_limit":0,"initial_stock":16000000,"stock":"81503439","sort":100000,"status":1,"setting":{"beans_count":"1","gift_bag":"0"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:12","all_exchange_count":40,"day_exchange_count":"3"}
+
+开始任务：""material_produce_v2"
+【undefined】上开始生产undefined
+
+开始任务：""product_produce"
+生产成功
+
+开始任务：""product_produce"
+生产成功
+
+开始任务：""to_employee"
+雇佣助力码【7TV2G1kh】
+
+开始任务：""material_produce_v2"
+【h2】上开始生产颜料
+
+开始任务：""product_produce"
+生产信息获取失败，错误信息请求太频繁，请稍后再试
+
+开始任务：""material_produce_v2"
+【b1】上开始生产树脂
+
+==============📣系统通知📣==============
+美丽研究院
+京东账号4jd_157332ewky
+本次运行获得美妆币200枚
+当前美妆币4150
+
+开始任务：""material_fetch_v2"
+【s1】收取成功，获得undefined份
+
+
+开始任务：""material_fetch_v2"
+任务完成失败，错误信息请求太频繁，请稍后再试
+
+开始任务：""to_employee"
+
+******开始【京东账号5】jd_157332zdf*********
+
+***检测账号是否黑号***
+benefit:{"id":9,"type":1,"name":"京豆大礼包(0点限量)","coins":"100000","description":"500颗京豆打包兑换","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":20,"day_limit":1,"level_limit":1,"times_limit":0,"initial_stock":1000,"stock":"-6","sort":99999,"status":1,"setting":{"beans_count":"500","gift_bag":"1"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:19","all_exchange_count":0,"day_exchange_count":0}
+isvToken:AAEAILO0YSQnm9CKjY49QISNp3p8xJN0I0qX4qPcjYwItz000
+token2:AAFg5aSwADAw6Kc_G66wIpLM-BMRb8z1S6chZTMGKbJ7zyH941pj7PL9TSKiYLqfhQBNphDlrNY
+【$.token】 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNjQ1LCJleHAiOjE2MjU3MDU4NDUsIm5iZiI6MTYyNTY2MjY0NSwianRpIjoiM05Zek1lTWE4RktxN3NHSSIsInN1YiI6MzEyMTY0MywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.KQOPXrJ7RsQJNxK38A3tGvDw78wavaDadcPKikP2V6U
+美容研究院服务器连接成功
+操作成功，账号正常
+服务器连接关闭
+wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjI1NjYyNjQ1LCJleHAiOjE2MjU3MDU4NDUsIm5iZiI6MTYyNTY2MjY0NSwianRpIjoiM05Zek1lTWE4RktxN3NHSSIsInN1YiI6MzEyMTY0MywicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.KQOPXrJ7RsQJNxK38A3tGvDw78wavaDadcPKikP2V6U
+美容研究院服务器连接成功
+helpInfo []
+
+开始任务：""get_user"
+当前美妆币1550，用户等级1
+
+开始任务：""check_up"
+去领取第3次签到奖励
+
+开始任务：""get_ad"
+当期活动：美妆馆日常
+
+开始任务：""get_package"
+仓库信息:【油脂】99份 【滑石粉】1份 【保湿剂】1份 【乳化剂】99份 【矿物质水】1份 【颜料】1份 
+
+开始任务：""check_up_receive"
+任务完成成功，获得100美妆币
+
+开始任务：""product_producing"
+
+开始任务：""shop_products"
+
+开始任务：""get_produce_material"
+get_produce_material 操作成功
+
+开始任务：""new_product_fetch"
+收取产品【散粉】49份
+========原料生产信息========
+
+开始任务：""new_product_fetch"
+收取产品【爽肤水】49份
+
+开始任务：""get_user"
+当前美妆币1750，用户等级1
+
+开始任务：""produce_position_info_v2"
+【s1】上正在生产【矿物质水】，可收取 0 份
+去收取矿物质水
+
+开始任务：""produce_position_info_v2"
+【h2】上正在生产【颜料】，可收取 0 份
+去收取颜料
+
+开始任务：""product_lists"
+========可生产商品信息========
+生产【散粉】需要原料“滑石粉2 份” （库存 1 份）需要原料“颜料2 份” （库存 1 份）
+【散粉】原料不足，无法生产
+生产【爽肤水】需要原料“矿物质水2 份” （库存 1 份）需要原料“保湿剂2 份” （库存 1 份）
+【爽肤水】原料不足，无法生产
+生产【卸妆油】需要原料“油脂2 份” （库存 99 份）需要原料“乳化剂2 份” （库存 99 份），可生产 49份
+【卸妆油】可生产份数大于0，去生产
+
+开始任务：""get_package"
+仓库信息:【油脂】99份 【滑石粉】1份 【保湿剂】1份 【乳化剂】99份 【矿物质水】1份 【颜料】1份 
+=======================
+
+开始任务：""get_benefit"
+benefit:{"id":7,"type":1,"name":"京豆","coins":"1000","description":"1 京豆","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":0,"day_limit":8,"level_limit":1,"times_limit":0,"initial_stock":16000000,"stock":"81503340","sort":100000,"status":1,"setting":{"beans_count":"1","gift_bag":"0"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:12","all_exchange_count":4,"day_exchange_count":"2"}
+
+开始任务：""produce_position_info_v2"
+【b1】上正在生产【油脂】，可收取 0 份
+去收取油脂
+
+开始任务：""material_fetch_v2"
+【s1】收取成功，获得undefined份
+
+
+开始任务：""produce_position_info_v2"
+【b2】上正在生产【保湿剂】，可收取 0 份
+去收取保湿剂
+
+开始任务：""collect_coins"
+收取成功，获得0美妆币，当前总美妆币：1750
+
+
+开始任务：""produce_position_info_v2"
+【s2】上正在生产【滑石粉】，可收取 0 份
+去收取滑石粉
+
+开始任务：""material_fetch_v2"
+【h2】收取成功，获得undefined份
+
+
+开始任务：""produce_position_info_v2"
+【h1】上尚未开始生产
+$.needs:[{"id":6,"name":"滑石粉","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/1e713e5046f8a9ffe07077e38c73be05.png","coins":5},{"id":9,"name":"颜料","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5848195fe60aee4f923cd7eb7cec810b.png","coins":5},{"id":4,"name":"矿物质水","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/3695a1e9d9a12e3de804e039463399fb.png","coins":5},{"id":5,"name":"保湿剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5364cccda4029d939656f21657f5f50a.png","coins":5}]
+ma:{"id":5,"name":"保湿剂","pic":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty/images/5364cccda4029d939656f21657f5f50a.png","coins":5}
+ma booleamtrue
+去生产保湿剂
+
+开始任务：""product_produce"
+生产成功
+
+开始任务：""to_employee"
+雇佣助力码【69bt68kk】
+
+开始任务：""to_employee"
+雇佣助力码【6ZP1aFKF】
+
+开始任务：""to_employee"
+雇佣助力码【jeDSMnUc】
+
+开始任务：""material_fetch_v2"
+【b1】收取成功，获得undefined份
+
+
+开始任务：""material_produce_v2"
+【h1】上开始生产保湿剂
+
+开始任务：""to_exchange"
+兑换10京豆成功;{"data":{"coins":-1000,"user_coins":750},"msg":"操作成功","code":200,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【mGEGpenm】
+
+开始任务：""material_fetch_v2"
+【s2】收取成功，获得undefined份
+
+
+开始任务：""material_fetch_v2"
+【b2】收取成功，获得undefined份
+
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_employee"
+雇佣助力码【RvBU5u3a】
+
+开始任务：""to_employee"
+雇佣助力码【OIAnDmxh】
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"操作频繁,请稍后再试","code":422,"action":"to_exchange"}
+benefit:{"id":9,"type":1,"name":"京豆大礼包(0点限量)","coins":"100000","description":"500颗京豆打包兑换","image":"https://jd-beauty-cdn.h5.sinreweb.com/jd-beauty-laboratory-20201102/images/0dcdc19525d059f863ddf7b39ba1f72f.jpg","global_daily_limit":20,"day_limit":1,"level_limit":1,"times_limit":0,"initial_stock":1000,"stock":"-6","sort":99999,"status":1,"setting":{"beans_count":"500","gift_bag":"1"},"created_at":"2020-11-11 14:16:44","updated_at":"2021-06-23 10:34:19","all_exchange_count":0,"day_exchange_count":0}
+
+开始任务：""to_exchange"
+兑换京豆失败：{"msg":"美妆币不足","code":422,"action":"to_exchange"}
+本次运行获得美妆币100
+服务器连接关闭
+
+==============📣系统通知📣==============
+美丽研究院
+京东账号5jd_157332zdf
+本次运行获得美妆币100枚
+当前美妆币1750
+
+🔔美丽研究院, 结束! 🕛 371.329 秒
+

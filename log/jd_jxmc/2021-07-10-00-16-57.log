@@ -1,0 +1,44 @@
+
+🔔惊喜牧场, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 12:16:57 AM=====================
+
+惊喜牧场
+更新时间：2021-6-8
+活动入口：京喜APP-我的-京喜牧场
+温馨提示：请先手动完成【新手指导任务】再运行脚本
+"getaddrinfo ENOTFOUND cactus.jd.com"
+request_algo 签名参数API请求失败，请检查网路重试
+
+❗️惊喜牧场, 错误!
+
+
+*****开始【京东账号1】15631692383_p*****
+
+undefined
+
+❗️惊喜牧场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at dealReturn (/opt/jd/scripts/jd_jxmc.js:320:30)
+    at /opt/jd/scripts/jd_jxmc.js:306:9
+    at /opt/jd/scripts/jd_jxmc.js:593:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❗️惊喜牧场, 错误!
+
+
+*****开始【京东账号2】jd_74a8d71c978d9*****
+
+undefined
+
+❗️惊喜牧场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at dealReturn (/opt/jd/scripts/jd_jxmc.js:320:30)
+    at /opt/jd/scripts/jd_jxmc.js:306:9
+    at /opt/jd/scripts/jd_jxmc.js:593:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+🔔惊喜牧场, 结束! 🕛 153.965 秒
+

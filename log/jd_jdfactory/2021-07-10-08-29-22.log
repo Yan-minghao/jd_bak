@@ -1,0 +1,62 @@
+
+🔔东东工厂, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 8:29:22 AM=====================
+
+开始获取东东工厂配置文件
+
+您的互助码选择的是用&隔开
+
+共2个京东账号
+
+您提供了0个账号的东东工厂助力码
+
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+
+******开始【京东账号1】15631692383_p*********
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第1个京东账号将要助力的好友["P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj"]
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+
+❗️东东工厂, 错误!
+TypeError: Cannot read property 'code' of undefined
+    at helpFriends (/opt/jd/scripts/jd_jdfactory.js:247:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async jdFactory (/opt/jd/scripts/jd_jdfactory.js:87:5)
+    at async /opt/jd/scripts/jd_jdfactory.js:74:7
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+
+******开始【京东账号2】jd_74a8d71c978d9*********
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第2个京东账号将要助力的好友["P04z54XCjVWnYaS5m9cZ2ariXVJwHf0bgkG7Uo"]
+此京东账号2暂未选购商品
+现在也能为您做任务和收集免费电力
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试
+
+❗️东东工厂, 错误!
+TypeError: Cannot read property 'code' of undefined
+    at helpFriends (/opt/jd/scripts/jd_jdfactory.js:247:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async jdFactory (/opt/jd/scripts/jd_jdfactory.js:87:5)
+    at async /opt/jd/scripts/jd_jdfactory.js:74:7
+
+🔔东东工厂, 结束! 🕛 74.862 秒
+
+"Timeout awaiting 'request' for 10000ms"
+东东工厂 API请求失败，请检查网路重试

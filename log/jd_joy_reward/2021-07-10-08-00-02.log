@@ -1,0 +1,28 @@
+
+🔔宠汪汪积分兑换奖品, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 8:00:02 AM=====================
+
+"read ECONNRESET"
+宠汪汪积分兑换奖品 API请求失败，请检查网路重试
+
+*****开始【京东账号1】15631692383_p****
+
+脚本开始请求时间 2021-07-10 08:32:18 | 784
+"getaddrinfo ENOTFOUND jdjoy.jd.com"
+宠汪汪积分兑换奖品 API请求失败，请检查网路重试
+宠汪汪积分兑换奖品getExchangeRewards异常,undefined
+"getaddrinfo ENOTFOUND wq.jd.com"
+宠汪汪积分兑换奖品 API请求失败，请检查网路重试
+
+*****开始【京东账号2】jd_74a8d71c978d9****
+
+脚本开始请求时间 2021-07-10 08:33:22 | 128
+"getaddrinfo ENOTFOUND jdjoy.jd.com"
+宠汪汪积分兑换奖品 API请求失败，请检查网路重试
+宠汪汪积分兑换奖品getExchangeRewards异常,undefined
+
+🔔宠汪汪积分兑换奖品, 结束! 🕛 2033.084 秒
+

@@ -1,0 +1,24 @@
+
+🔔京东快递签到, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/12/2021, 1:07:14 AM=====================
+
+
+******开始【京东账号1】15631692383_p*********
+
+今日签到成功，获得签到得积分
+
+******开始【京东账号2】Ycp_Dream*********
+
+异常：{"code":-101,"content":[{"couponInfoDTOS":[{"batchInfoDto":{"activityEndDate":"2021-08-27 23:59:59","activityName":"总部-6月-积分签到-88折快递券-高飞\t","activityStartDate":"2021-05-25 00:00:00","batchNo":765948935,"couponNum":3000000,"couponStyle":10,"couponType":400,"discountLimit":10,"discountRatio":0.88,"fixDate":1,"relativeDay":7,"remark":"6~8月积分签到活动","restrictedCopy":"88折快递券","restrictedUseDesc":"可用于京东快递-寄快递（含寄生鲜）业务，限寄付现结使用，不可与其他优惠叠加。不支持寄重货使用。","restrictedUseProduct":"","restrictedUseService":"0","sendNum":1,"useChannel":"ALL","userCollectRule":0,"userLevel":0},"couponDTOS":[{"activityKey":"WL_BA#uaz2dtg","couponNo":"187415528837","endTime":1626710399882,"startTime":1626023234882}],"sendNum":1,"value":10}],"imageDtos":[{"sign":"signin","url":"https://img11.360buyimg.com/pop/jfs/t1/175159/28/10814/19846/60a75940Ea0a1f4e6/de777c1bf48e3840.png"}],"param":"WL_BA#uaz2dtg","rewardId":128,"rewardType":4,"title":"88折快递券x1"}],"data":[{"$ref":"$.content[0]"}],"errorMsg":"签到成功","msg":"签到成功","success":false}
+
+==============📣系统通知📣==============
+京东快递签到
+京东账号115631692383_p
+今日签到成功，获得签到得积分 🐶
+
+
+🔔京东快递签到, 结束! 🕛 0.803 秒
+

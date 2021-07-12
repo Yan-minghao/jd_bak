@@ -1,0 +1,54 @@
+
+🔔小鸽有礼-每日抽奖, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/9/2021, 11:14:35 PM=====================
+
+
+❗️小鸽有礼-每日抽奖, 错误!
+
+
+*****开始【京东账号1】15631692383_p*****
+
+
+❗️小鸽有礼-每日抽奖, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_daily_lottery.js:241:30
+    at /opt/jd/scripts/jd_daily_lottery.js:347:5858
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❗️小鸽有礼-每日抽奖, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_daily_lottery.js:221:21
+    at /opt/jd/scripts/jd_daily_lottery.js:347:5858
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+初始化
+15631692383_p数据异常，执行失败
+
+❗️小鸽有礼-每日抽奖, 错误!
+
+
+*****开始【京东账号2】jd_74a8d71c978d9*****
+
+
+❗️小鸽有礼-每日抽奖, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_daily_lottery.js:241:30
+    at /opt/jd/scripts/jd_daily_lottery.js:347:5858
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❗️小鸽有礼-每日抽奖, 错误!
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /opt/jd/scripts/jd_daily_lottery.js:221:21
+    at /opt/jd/scripts/jd_daily_lottery.js:347:5858
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+初始化
+jd_74a8d71c978d9数据异常，执行失败
+
+🔔小鸽有礼-每日抽奖, 结束! 🕛 87.075 秒
+

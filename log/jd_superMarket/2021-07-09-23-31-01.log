@@ -1,0 +1,48 @@
+
+🔔东东超市, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/9/2021, 11:31:01 PM=====================
+
+共2个京东账号
+
+
+❗️东东超市, 错误!
+
+
+开始【京东账号1】15631692383_p
+
+
+东东超市: API查询请求失败 ‼️‼️
+"getaddrinfo ENOTFOUND api.m.jd.com"
+
+❗️东东超市, 错误!
+TypeError: Cannot read property 'data' of undefined
+    at receiveGoldCoin (/opt/jd/scripts/jd_superMarket.js:208:7622)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async jdSuperMarket (/opt/jd/scripts/jd_superMarket.js:81:5)
+    at async /opt/jd/scripts/jd_superMarket.js:67:7
+【京东账号1】
+
+
+❗️东东超市, 错误!
+
+
+开始【京东账号2】jd_74a8d71c978d9
+
+
+东东超市: API查询请求失败 ‼️‼️
+"getaddrinfo ENOTFOUND api.m.jd.com"
+
+❗️东东超市, 错误!
+TypeError: Cannot read property 'data' of undefined
+    at receiveGoldCoin (/opt/jd/scripts/jd_superMarket.js:208:7622)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async jdSuperMarket (/opt/jd/scripts/jd_superMarket.js:81:5)
+    at async /opt/jd/scripts/jd_superMarket.js:67:7
+【京东账号2】
+
+
+🔔东东超市, 结束! 🕛 148.334 秒
+

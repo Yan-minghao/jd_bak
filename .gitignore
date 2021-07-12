@@ -1,0 +1,3 @@
+# Project exclude paths
+/panel/node_modules/
+/scripts/node_modules/

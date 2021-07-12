@@ -1,0 +1,1156 @@
+
+🔔京喜财富岛, 开始!
+
+====================共4个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：6/30/2021, 12:08:50 PM=====================
+
+开始获取京喜财富岛配置文件
+
+您提供了0个账号的京喜财富岛助力码
+
+获取签名参数成功！
+fp: 1122273529407162
+token: tk01wcc7c1c31a8nakgxcEFGQ3d2opuPwTHPseKzaLu/QhuJgGAoF9VX5T048Xqqmz+HlZbsUJNSBGbWTJwMLMVND+BZ
+enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='Zzt4mFE1Pj6k';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+
+开始【京东账号1】Ymh__Sirius
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第1个京东账号将要助力的好友["FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3","A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9","AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F","E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A","3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509","C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59","1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA","21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5","44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD","7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A","BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB","786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9","5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55","FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650","A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C","69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69","F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+
+获取用户信息：success
+
+
+当前等级:25,财富值:5770439
+
+财富岛好友互助码每次运行都变化,旧的可继续使用
+
+【京东账号1（15631692383_p）的京喜财富岛好友互助码】C28A126BC325426BDEBE8D8BBC469EFDB09FD0D9D0A0A8B80C04EEDCA47776AB
+
+
+
+签到列表：success
+
+
+📌签到：你今日已签到过啦，请明天再来
+待开通场景ID列表sceneList;["1003"]
+
+【欢乐牧场】🏝岛主 : 获取财富值：¥ 666 
+
+
+【欢乐牧场】👬好友: 没有可收取钞票 
+
+【欢乐牧场领取红包】 招工人数不达标
+
+【便利店】🏝岛主 : 获取财富值：¥ 334 
+
+
+【便利店】👬好友: 没有可收取钞票 
+
+【便利店领取红包】参数错误
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+
+获取【📆日常任务】列表 ，总共6个任务！
+
+
+开始第1个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第1个【📆日常任务】：每日三餐上岛
+
+
+开始第2个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】： mission success
+
+每日三餐上岛【领日常奖励】： 获得财富值 ¥ 1000
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第2个【📆日常任务】：每日三餐上岛
+
+
+开始第3个【📆日常任务】：关注浏览京喜好店
+
+关注浏览京喜好店【做日常任务】：任务进行中或者未到任务时间
+
+
+关注浏览京喜好店【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第3个【📆日常任务】：关注浏览京喜好店
+
+
+开始第4个【📆日常任务】：特卖商品1元起
+
+特卖商品1元起【做日常任务】：任务进行中或者未到任务时间
+
+
+特卖商品1元起【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第4个【📆日常任务】：特卖商品1元起
+
+
+开始第5个【📆日常任务】：邀请岛民好友首次上岛
+
+邀请岛民好友首次上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+邀请岛民好友首次上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第5个【📆日常任务】：邀请岛民好友首次上岛
+
+
+开始第6个【📆日常任务】：去岛屿商城下一单
+
+去岛屿商城下一单【做日常任务】：任务进行中或者未到任务时间
+
+
+去岛屿商城下一单【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第6个【📆日常任务】：去岛屿商城下一单
+
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+获取【🎖成就任务】列表 ，总共0个任务！
+
+
+【🏝寻宝大作战】【好运连连岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【平安喜乐岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【万事大吉岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【全民暴富岛】开宝箱： 获得财富值 ¥ 10000
+
+
+
+你的【🏝寻宝大作战】互助码: Jxcfd_GroupId_342_71855012(每天都变化,旧的不可用)
+
+
+去助力好友 【FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026248,"iRet":2005,"sErrMsg":"每天打工次数上限","strPin":"15631692383_p"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026258,"iRet":2005,"sErrMsg":"每天打工次数上限","strPin":"15631692383_p"}
+
+
+开始【京东账号2】Ycp_Dream
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第2个京东账号将要助力的好友["FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3","A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9","AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F","E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A","3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509","C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59","1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA","21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5","44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD","7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A","BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB","786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9","5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55","FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650","A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C","69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69","F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+
+获取用户信息：success
+
+
+当前等级:9,财富值:770664
+
+财富岛好友互助码每次运行都变化,旧的可继续使用
+
+【京东账号2（jd_74a8d71c978d9）的京喜财富岛好友互助码】8B214CC66D6AD674E5BF2B0D678AE96800CD44B575F6CE2B2EF2AFCCE8E46AC1
+
+
+
+签到列表：success
+
+
+📌签到：你今日已签到过啦，请明天再来
+待开通场景ID列表sceneList;["1002","1003"]
+
+【欢乐牧场】🏝岛主 : 获取财富值：¥ 654 
+
+
+【欢乐牧场】👬好友: 没有可收取钞票 
+
+【欢乐牧场领取红包】 招工人数不达标
+
+获取【📆日常任务】列表 ，总共11个任务！
+
+
+开始第1个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第1个【📆日常任务】：每日三餐上岛
+
+
+开始第2个【📆日常任务】：每日三餐上岛
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+
+每日三餐上岛【做日常任务】： mission success
+
+每日三餐上岛【领日常奖励】： 获得财富值 ¥ 1000
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第2个【📆日常任务】：每日三餐上岛
+
+
+开始第3个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第3个【📆日常任务】：每日三餐上岛
+
+
+开始第4个【📆日常任务】：关注浏览京喜好店
+
+关注浏览京喜好店【做日常任务】：任务进行中或者未到任务时间
+
+
+关注浏览京喜好店【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第4个【📆日常任务】：关注浏览京喜好店
+
+
+开始第5个【📆日常任务】：每日逛京喜爆品
+
+每日逛京喜爆品【做日常任务】： mission success
+
+每日逛京喜爆品【领日常奖励】： 获得财富值 ¥ 2000
+
+
+每日逛京喜爆品【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第5个【📆日常任务】：每日逛京喜爆品
+
+
+开始第6个【📆日常任务】：特卖商品1元起
+
+特卖商品1元起【做日常任务】：任务进行中或者未到任务时间
+
+
+特卖商品1元起【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第6个【📆日常任务】：特卖商品1元起
+
+
+开始第7个【📆日常任务】：逛商品集市得财富
+
+逛商品集市得财富【做日常任务】： mission success
+
+逛商品集市得财富【领日常奖励】： 获得财富值 ¥ 1000
+
+
+逛商品集市得财富【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第7个【📆日常任务】：逛商品集市得财富
+
+
+开始第8个【📆日常任务】：天天领免费福利
+
+天天领免费福利【做日常任务】： mission success
+
+天天领免费福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+天天领免费福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第8个【📆日常任务】：天天领免费福利
+
+
+开始第9个【📆日常任务】：每日逛逛赢福利
+
+每日逛逛赢福利【做日常任务】： mission success
+
+每日逛逛赢福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+每日逛逛赢福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第9个【📆日常任务】：每日逛逛赢福利
+
+
+开始第10个【📆日常任务】：邀请岛民好友首次上岛
+
+邀请岛民好友首次上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+邀请岛民好友首次上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第10个【📆日常任务】：邀请岛民好友首次上岛
+
+
+开始第11个【📆日常任务】：去岛屿商城下一单
+
+去岛屿商城下一单【做日常任务】：任务进行中或者未到任务时间
+
+
+去岛屿商城下一单【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第11个【📆日常任务】：去岛屿商城下一单
+
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+获取【🎖成就任务】列表 ，总共0个任务！
+
+
+【🏝寻宝大作战】【全民暴富岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【好运连连岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【平安喜乐岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【万事大吉岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+
+你的【🏝寻宝大作战】互助码: Jxcfd_GroupId_342_71903666(每天都变化,旧的不可用)
+
+
+去助力好友 【FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026422,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026433,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026445,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026455,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026467,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026477,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026490,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026500,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026512,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026522,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026534,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026557,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026567,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026579,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026589,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026611,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026634,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026646,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026656,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026679,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026691,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026701,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026719,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026729,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026741,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026757,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026769,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026784,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026807,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026819,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026829,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026841,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026851,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+去助力好友 【69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026863,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026886,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625026896,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_74a8d71c978d9"}
+
+
+开始【京东账号3】jd_585601a83bd48
+
+由于您第3个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第3个京东账号将要助力的好友["FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3","A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9","AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F","E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A","3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509","C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59","1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA","21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5","44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD","7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A","BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB","786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9","5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55","FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650","A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C","69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69","F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+
+获取用户信息：success
+
+
+当前等级:9,财富值:731246
+
+财富岛好友互助码每次运行都变化,旧的可继续使用
+
+【京东账号3（chao4596758）的京喜财富岛好友互助码】3CFFE538D0B9D8B6DFAE72DBD9E18EC117B88110C9EF33B79558CC6ED1A12D0A
+
+
+
+签到列表：success
+
+
+📌签到：你今日已签到过啦，请明天再来
+待开通场景ID列表sceneList;["1002","1003"]
+
+【欢乐牧场】🏝岛主 : 获取财富值：¥ 632 
+
+
+【欢乐牧场】👬好友: 没有可收取钞票 
+
+【欢乐牧场领取红包】 招工人数不达标
+
+获取【📆日常任务】列表 ，总共11个任务！
+
+
+开始第1个【📆日常任务】：每日三餐上岛
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第1个【📆日常任务】：每日三餐上岛
+
+
+开始第2个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】： mission success
+
+每日三餐上岛【领日常奖励】： 获得财富值 ¥ 1000
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第2个【📆日常任务】：每日三餐上岛
+
+
+开始第3个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第3个【📆日常任务】：每日三餐上岛
+
+
+开始第4个【📆日常任务】：关注浏览京喜好店
+
+关注浏览京喜好店【做日常任务】：任务进行中或者未到任务时间
+
+
+关注浏览京喜好店【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第4个【📆日常任务】：关注浏览京喜好店
+
+
+开始第5个【📆日常任务】：每日逛京喜爆品
+
+每日逛京喜爆品【做日常任务】： mission success
+
+每日逛京喜爆品【领日常奖励】： 获得财富值 ¥ 2000
+
+
+每日逛京喜爆品【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第5个【📆日常任务】：每日逛京喜爆品
+
+
+开始第6个【📆日常任务】：特卖商品1元起
+
+特卖商品1元起【做日常任务】：任务进行中或者未到任务时间
+
+
+特卖商品1元起【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第6个【📆日常任务】：特卖商品1元起
+
+
+开始第7个【📆日常任务】：逛商品集市得财富
+
+逛商品集市得财富【做日常任务】： mission success
+
+逛商品集市得财富【领日常奖励】： 获得财富值 ¥ 1000
+
+
+逛商品集市得财富【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第7个【📆日常任务】：逛商品集市得财富
+
+
+开始第8个【📆日常任务】：天天领免费福利
+
+天天领免费福利【做日常任务】： mission success
+
+天天领免费福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+天天领免费福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第8个【📆日常任务】：天天领免费福利
+
+
+开始第9个【📆日常任务】：每日逛逛赢福利
+
+每日逛逛赢福利【做日常任务】： mission success
+
+每日逛逛赢福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+每日逛逛赢福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第9个【📆日常任务】：每日逛逛赢福利
+
+
+开始第10个【📆日常任务】：邀请岛民好友首次上岛
+
+邀请岛民好友首次上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+邀请岛民好友首次上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第10个【📆日常任务】：邀请岛民好友首次上岛
+
+
+开始第11个【📆日常任务】：去岛屿商城下一单
+
+去岛屿商城下一单【做日常任务】：任务进行中或者未到任务时间
+
+
+去岛屿商城下一单【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第11个【📆日常任务】：去岛屿商城下一单
+
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+获取【🎖成就任务】列表 ，总共0个任务！
+
+
+【🏝寻宝大作战】【好运连连岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【平安喜乐岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【万事大吉岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【全民暴富岛】开宝箱： 获得财富值 ¥ 10000
+
+
+
+你的【🏝寻宝大作战】互助码: Jxcfd_GroupId_342_71907285(每天都变化,旧的不可用)
+
+
+去助力好友 【FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027088,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027098,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027110,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027125,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027138,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027148,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027161,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027171,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027183,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027193,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027205,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027216,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027228,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027238,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027250,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027260,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027273,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027283,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027305,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027318,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027328,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027352,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027364,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027376,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027386,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027398,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027409,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027421,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027453,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027466,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027476,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027488,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027521,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027533,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027543,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+去助力好友 【F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027556,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027566,"iRet":2009,"sErrMsg":"招工已满","strPin":"chao4596758"}
+
+
+开始【京东账号4】jd_157332ewky
+
+由于您第4个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第4个京东账号将要助力的好友["FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3","A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9","AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F","E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A","3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509","C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59","1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA","21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5","44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD","7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A","BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB","786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9","5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55","FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375","69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1","AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650","A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C","69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69","F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+
+获取用户信息：success
+
+
+当前等级:16,财富值:2476316
+
+财富岛好友互助码每次运行都变化,旧的可继续使用
+
+【京东账号4（jd_46df9eaa780aa）的京喜财富岛好友互助码】F6FA2C796E72A9737E75902C7D6D4473CAD50246BB5690F9715A51722392CEDA
+
+
+
+签到列表：success
+
+
+📌签到：你今日已签到过啦，请明天再来
+待开通场景ID列表sceneList;["1003"]
+
+【欢乐牧场】🏝岛主 : 获取财富值：¥ 595 
+
+
+【欢乐牧场】👬好友: 没有可收取钞票 
+
+【欢乐牧场领取红包】 招工人数不达标
+
+【便利店】🏝岛主 : 获取财富值：¥ 298 
+
+
+【便利店】👬好友: 没有可收取钞票 
+
+【便利店领取红包】参数错误
+
+获取【📆日常任务】列表 ，总共11个任务！
+
+
+开始第1个【📆日常任务】：每日三餐上岛
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第1个【📆日常任务】：每日三餐上岛
+
+
+开始第2个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】： mission success
+
+每日三餐上岛【领日常奖励】： 获得财富值 ¥ 1000
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第2个【📆日常任务】：每日三餐上岛
+
+
+开始第3个【📆日常任务】：每日三餐上岛
+
+每日三餐上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+每日三餐上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第3个【📆日常任务】：每日三餐上岛
+
+
+开始第4个【📆日常任务】：关注浏览京喜好店
+
+关注浏览京喜好店【做日常任务】：任务进行中或者未到任务时间
+
+
+关注浏览京喜好店【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第4个【📆日常任务】：关注浏览京喜好店
+
+
+开始第5个【📆日常任务】：每日逛京喜爆品
+
+每日逛京喜爆品【做日常任务】： mission success
+
+每日逛京喜爆品【领日常奖励】： 获得财富值 ¥ 2000
+
+
+每日逛京喜爆品【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第5个【📆日常任务】：每日逛京喜爆品
+
+
+开始第6个【📆日常任务】：特卖商品1元起
+
+特卖商品1元起【做日常任务】：任务进行中或者未到任务时间
+
+
+特卖商品1元起【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第6个【📆日常任务】：特卖商品1元起
+
+
+开始第7个【📆日常任务】：逛商品集市得财富
+
+逛商品集市得财富【做日常任务】： mission success
+
+逛商品集市得财富【领日常奖励】： 获得财富值 ¥ 1000
+
+
+逛商品集市得财富【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第7个【📆日常任务】：逛商品集市得财富
+
+
+开始第8个【📆日常任务】：天天领免费福利
+
+天天领免费福利【做日常任务】： mission success
+
+天天领免费福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+天天领免费福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第8个【📆日常任务】：天天领免费福利
+
+
+开始第9个【📆日常任务】：每日逛逛赢福利
+
+每日逛逛赢福利【做日常任务】： mission success
+
+每日逛逛赢福利【领日常奖励】： 获得财富值 ¥ 3000
+
+
+每日逛逛赢福利【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第9个【📆日常任务】：每日逛逛赢福利
+
+
+开始第10个【📆日常任务】：邀请岛民好友首次上岛
+
+邀请岛民好友首次上岛【做日常任务】：任务进行中或者未到任务时间
+
+
+邀请岛民好友首次上岛【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第10个【📆日常任务】：邀请岛民好友首次上岛
+
+
+开始第11个【📆日常任务】：去岛屿商城下一单
+
+去岛屿商城下一单【做日常任务】：任务进行中或者未到任务时间
+
+
+去岛屿商城下一单【领日常奖励】：任务为成就任务或者未到任务时间
+
+
+结束第11个【📆日常任务】：去岛屿商城下一单
+
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🎁寻宝：宝藏冷却中，请等待冷却完毕
+
+🤏偷取好友【jd_**cjm】【欢乐牧场】财富值：¥ 277
+
+
+🤏偷取好友【jd_**cjm】【便利店】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**cjm】【京喜餐厅】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**cjm】【】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**053】【欢乐牧场】财富值：¥ 没有可偷取的钞票
+
+
+🤏偷取好友【jd_**053】【便利店】财富值：¥ 164
+
+
+🤏偷取好友【jd_**053】【京喜餐厅】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**053】【】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**DvY】【欢乐牧场】财富值：¥ 166
+
+
+🤏偷取好友【jd_**DvY】【便利店】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**DvY】【京喜餐厅】财富值：¥ 今天已经偷过该好友的钞票
+
+
+🤏偷取好友【jd_**DvY】【】财富值：¥ 今天已经偷过该好友的钞票
+
+
+获取【🎖成就任务】列表 ，总共0个任务！
+
+
+【🏝寻宝大作战】【全民暴富岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【好运连连岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【平安喜乐岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+【🏝寻宝大作战】【万事大吉岛】开宝箱：未达到宝箱开启条件，快去邀请好友助力吧！
+
+
+你的【🏝寻宝大作战】互助码: Jxcfd_GroupId_342_71848794(每天都变化,旧的不可用)
+
+
+去助力好友 【FA00A56D50C6589BC941527DE216A632B89CC0D5A39956B11BD5AB8B02EAA6B3】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027795,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027810,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【A13A472C0826D29815C0E8DB1E416FF2631415379A71B880F9BC7298743E02C9】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027823,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027833,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【AC44A799D9BD875DA9F3CAF1D06E7EBC10F916A6BFF7E4A4053422C8289DD22F】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027845,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【E328E35084A30DCE3B6CDA262D241942A75FBF859B66B47F7BD6B144C715143A】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027883,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【3E4FCA1315E7D614686CCCC2386FDBC5AEB6E10E5EFC25AEEA12C211E8BE3509】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027900,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027910,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【C615955B40B3721E7AD21DF5EE697CBEC43A66D310269452600CF291E26BCF59】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027922,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027932,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【1C06C35CCD990D362BC4A10808EA7EE18DD56B7347A52198C9B9EC0D19F791BA】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027944,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027955,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【21ECA8C831E3FFD014FB5EA53A5C1EA02A835A31CFE4E7D1B5F5C676A860B6A5】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027967,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027977,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【44099A7213D08369EA6953377B7214B7817FEE9CB02177E09FBFEAA5232F47AD】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027989,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625027999,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【7FF8E184072BC6A974D496188793B09243AFC4AEB971E5F559D219C20239415A】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028017,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+"Response code 401 (Unauthorized)"
+京喜财富岛 createAssistUser JoinScene API请求失败，请检查网路重试
+去助力好友 【BA6B937DD9ED1D204E2410CAE804D55DE13247DE96B95B7D1D7D7CE9281D92AB】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028039,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028057,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【786244973ED40333D34F1A4BAE5A3FD5165FA58B320CE6C9B603D6358CD0E5C9】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028075,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028085,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【5F9D6DF5A4A56BCA001F0EFC20E14D0B1AAABBDE7CC6245F7DEA2D363F920AE6】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028097,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028108,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028120,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028130,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【5FC094BB67D47C42C51B7980EB8A3B6D0A73B81904E60D46366396BA5B836E55】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028153,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【FDA07FE3254918F58F8C52B4EC19B9C86DBCF0300937E64BE5A8D2696BA57375】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028165,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028175,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【69232A74C7EA864981BDFF0E96EBD094852A57B4EC0F6200E93AF1252C47CAF1】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028188,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028199,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【AA84E76C60EEC2A2BB3BF8EBD65175527C5D3D7FCCA2781E01E2E1F8CA85F650】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028221,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【A9E06C370818371E014ADB8CCDBBBC74FFEED5CF0F503725481E82E73CE7E63C】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028233,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028243,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【69C9B1E2CC75DBC3BAF7F08BD293373F5102E39AFC7D6577797FBFD0908E9E69】
+超级助力(超级工人)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028256,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028266,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+去助力好友 【F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D】
+"Response code 401 (Unauthorized)"
+京喜财富岛 createSuperAssistUser JoinScene API请求失败，请检查网路重试
+普通助力(招工)结果:{"dwAwardExperience":500,"dwAwardMany":500,"dwCurTime":1625028288,"iRet":2009,"sErrMsg":"招工已满","strPin":"jd_46df9eaa780aa"}
+
+
+
+寻宝大作战，自己账号内部循环互助
+
+
+账号15631692383_p 去参加 Jxcfd_GroupId_342_71855012 寻宝大作战
+iRet:2013 不能给自己助力
+账号15631692383_p 去参加 Jxcfd_GroupId_342_71903666 寻宝大作战
+iRet:2005 每天打工次数上限
+
+
+寻宝大作战，自己账号内部循环互助
+
+
+账号jd_74a8d71c978d9 去参加 Jxcfd_GroupId_342_71855012 寻宝大作战
+"Response code 401 (Unauthorized)"
+京喜财富岛 joinGroup API请求失败，请检查网路重试
+账号jd_74a8d71c978d9 去参加 Jxcfd_GroupId_342_71903666 寻宝大作战
+iRet:2013 不能给自己助力
+账号jd_74a8d71c978d9 去参加 Jxcfd_GroupId_342_71907285 寻宝大作战
+iRet:2007 已经助力
+账号jd_74a8d71c978d9 去参加 Jxcfd_GroupId_342_71848794 寻宝大作战
+iRet:2005 每天打工次数上限
+
+
+寻宝大作战，自己账号内部循环互助
+
+
+账号chao4596758 去参加 Jxcfd_GroupId_342_71855012 寻宝大作战
+"Response code 401 (Unauthorized)"
+京喜财富岛 joinGroup API请求失败，请检查网路重试
+账号chao4596758 去参加 Jxcfd_GroupId_342_71903666 寻宝大作战
+iRet:2005 每天打工次数上限
+
+
+寻宝大作战，自己账号内部循环互助
+
+
+账号jd_46df9eaa780aa 去参加 Jxcfd_GroupId_342_71855012 寻宝大作战
+iRet:2007 已经助力
+账号jd_46df9eaa780aa 去参加 Jxcfd_GroupId_342_71903666 寻宝大作战
+iRet:2005 每天打工次数上限
+
+==============📣系统通知📣==============
+京喜财富岛
+【京东账号1】Ymh__Sirius
+【💵财富值】5770439
+
+【京东账号2】Ycp_Dream
+【💵财富值】770664
+
+【京东账号3】jd_585601a83bd48
+【💵财富值】731246
+
+【京东账号4】jd_157332ewky
+【💵财富值】2476316
+
+
+🔔京喜财富岛, 结束! 🕛 2237.401 秒
+

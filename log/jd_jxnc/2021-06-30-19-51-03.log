@@ -1,0 +1,135 @@
+
+🔔京喜农场, 开始!
+开始获取配置文件
+
+
+====================共4个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：6/30/2021, 7:51:03 PM=====================
+
+您的京喜农场助力码选择的是用&隔开
+
+共4个京东账号
+
+您提供了0个账号的京喜农场助力码
+
+************* 检查【京东账号1】15631692383_p cookie 是否有效 *************
+"getaddrinfo ENOTFOUND wq.jd.com"
+京喜农场 API请求失败，请检查网路重试
+开始【京东账号1】15631692383_p
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+第1个京东账号将要助力的好友[""]
+获取用户信息 & 任务列表
+"getaddrinfo ENOTFOUND cactus.jd.com"
+request_algo 签名参数API请求失败，请检查网路重试
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号1（15631692383_p）的京喜农场好友互助码】{}
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+获取随机助力码失败 API 返回异常
+京喜农场 - notify 通知已关闭
+账号1 - 
+【京东账号1】
+【水果名称】undefined
+【水滴】本次获得undefined 离线获得undefined 今日获得0 还需水滴NaN
+
+
+************* 检查【京东账号2】jd_74a8d71c978d9 cookie 是否有效 *************
+"getaddrinfo ENOTFOUND wq.jd.com"
+京喜农场 API请求失败，请检查网路重试
+开始【京东账号2】jd_74a8d71c978d9
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+第2个京东账号将要助力的好友[""]
+获取用户信息 & 任务列表
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号2（jd_74a8d71c978d9）的京喜农场好友互助码】{}
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+获取随机助力码失败 API 返回异常
+京喜农场 - notify 通知已关闭
+账号2 - 
+【京东账号2】
+【水果名称】undefined
+【水滴】本次获得undefined 离线获得undefined 今日获得0 还需水滴NaN
+
+
+************* 检查【京东账号3】chao4596758 cookie 是否有效 *************
+"getaddrinfo ENOTFOUND wq.jd.com"
+京喜农场 API请求失败，请检查网路重试
+开始【京东账号3】chao4596758
+
+由于您第3个京东账号未提供shareCode,将采纳本脚本自带的助力码
+第3个京东账号将要助力的好友[""]
+获取用户信息 & 任务列表
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号3（chao4596758）的京喜农场好友互助码】{}
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+获取随机助力码失败 API 返回异常
+京喜农场 - notify 通知已关闭
+账号3 - 
+【京东账号3】
+【水果名称】undefined
+【水滴】本次获得undefined 离线获得undefined 今日获得0 还需水滴NaN
+
+
+************* 检查【京东账号4】jd_46df9eaa780aa cookie 是否有效 *************
+"getaddrinfo ENOTFOUND wq.jd.com"
+京喜农场 API请求失败，请检查网路重试
+开始【京东账号4】jd_46df9eaa780aa
+
+由于您第4个京东账号未提供shareCode,将采纳本脚本自带的助力码
+第4个京东账号将要助力的好友[""]
+获取用户信息 & 任务列表
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+【京东账号4（jd_46df9eaa780aa）的京喜农场好友互助码】{}
+
+❗️京喜农场, 错误!
+TypeError: Cannot read property 'match' of undefined
+    at /opt/jd/scripts/jd_jxnc.js:347:24
+    at /opt/jd/scripts/jd_jxnc.js:869:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+获取随机助力码失败 API 返回异常
+京喜农场 - notify 通知已关闭
+账号4 - 
+【京东账号4】
+【水果名称】undefined
+【水滴】本次获得undefined 离线获得undefined 今日获得0 还需水滴NaN
+
+
+🔔京喜农场, 结束! 🕛 43925.181 秒
+

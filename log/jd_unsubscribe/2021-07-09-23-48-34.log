@@ -1,0 +1,32 @@
+
+🔔取关京东店铺和商品, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/9/2021, 11:48:34 PM=====================
+
+"getaddrinfo ENOTFOUND wq.jd.com"
+取关京东店铺和商品 API请求失败，请检查网路重试
+
+****开始【京东账号1】15631692383_p*****
+
+您环境变量 UN_SUBSCRIBES 设置的内容为:
+["","","",""]
+
+❗️取关京东店铺和商品, 错误!
+TypeError: Cannot read property 'slice' of undefined
+    at /opt/jd/scripts/jd_unsubscribe.js:156:32
+    at /opt/jd/scripts/jd_unsubscribe.js:380:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+❌ 取关京东店铺和商品, 失败! 原因: TypeError: Cannot read property 'iRet' of undefined!
+
+
+🔔取关京东店铺和商品, 结束! 🕛 58.297 秒
+
+
+❗️取关京东店铺和商品, 错误!
+TypeError: Cannot read property 'slice' of undefined
+    at /opt/jd/scripts/jd_unsubscribe.js:258:32
+    at /opt/jd/scripts/jd_unsubscribe.js:380:4955
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

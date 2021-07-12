@@ -1,0 +1,44 @@
+
+🔔领金贴, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 12:05:31 AM=====================
+
+
+❗️领金贴, 错误!
+
+
+******开始【京东账号1】15631692383_p*********
+
+"getaddrinfo ENOTFOUND ms.jr.jd.com"
+领金贴 API请求失败，请检查网路重试
+"getaddrinfo ENOTFOUND ms.jr.jd.com"
+领金贴 API请求失败，请检查网路重试
+
+❗️领金贴, 错误!
+TypeError: $.willTask is not iterable
+    at doTask (/opt/jd/scripts/jd_jin_tie.js:394:22)
+    at main (/opt/jd/scripts/jd_jin_tie.js:72:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_jin_tie.js:58:7
+
+❗️领金贴, 错误!
+
+
+******开始【京东账号2】jd_74a8d71c978d9*********
+
+"getaddrinfo ENOTFOUND ms.jr.jd.com"
+领金贴 API请求失败，请检查网路重试
+"getaddrinfo ENOTFOUND ms.jr.jd.com"
+领金贴 API请求失败，请检查网路重试
+
+❗️领金贴, 错误!
+TypeError: $.willTask is not iterable
+    at doTask (/opt/jd/scripts/jd_jin_tie.js:394:22)
+    at main (/opt/jd/scripts/jd_jin_tie.js:72:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /opt/jd/scripts/jd_jin_tie.js:58:7
+
+🔔领金贴, 结束! 🕛 229.277 秒
+

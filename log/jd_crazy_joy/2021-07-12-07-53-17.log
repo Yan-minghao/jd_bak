@@ -1,0 +1,394 @@
+
+🔔crazyJoy任务, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/12/2021, 7:53:17 AM=====================
+
+开始获取crazyJoy任务配置文件
+
+共2个京东账号
+
+您提供了0个账号的crazyJoy任务助力码
+
+
+开始【京东账号1】15631692383_p
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+随机取10个码放到您固定的互助码后面(不影响已有固定互助)
+第1个京东账号将要助力的好友["EdLPh8A6X5G1iWXu-uPYfA==","0gUO7F7N-4HVDh9mdQC2hg==","fUJTgR9z26fXdQgTvt_bgqt9zd5YaBeE","nCQQXQHKGjPCb7jkd8q2U-aCTjZMxL3s","2boGLV7TonMex8-nrT6EGat9zd5YaBeE","KTZmB4gV4zirfc3eWGgXhA==","dtTXFsCQ3tCWnXkLY8gyL6t9zd5YaBeE","-c4jG-fMiNon5YWAJsFHL6t9zd5YaBeE","hxG_ozzxvNjPuPCbly1WtA==","o6g_MrG-U7xRiW5YHaJvNA==","rloBVLD410xrTUV6gEUaaqt9zd5YaBeE","OwlyBd14L7f5LvvSF4bRSw==","vwz-tTaUDHiRRTRNcLmPLqt9zd5YaBeE","k1LutUhos2pAMy78P3l4jat9zd5YaBeE","J3JQyUdWaEk=","CeWC-2Anv4sQztjLuyPKmKt9zd5YaBeE","WDXiMdT9soBLfjYl3SmKeQ==","tZ7r1xd31NufgyShFW4a1at9zd5YaBeE","WgzIbwzqugK_Tt-Kjklu0at9zd5YaBeE"]
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:208:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:274:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:248:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:463:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:438:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:413:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:497:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+
+==============📣系统通知📣==============
+crazyJoy任务
+京东账号1 15631692383_p
+
+当前信息：0京豆，0金币
+
+开始【京东账号2】jd_74a8d71c978d9
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+随机取10个码放到您固定的互助码后面(不影响已有固定互助)
+第2个京东账号将要助力的好友["EdLPh8A6X5G1iWXu-uPYfA==","0gUO7F7N-4HVDh9mdQC2hg==","fUJTgR9z26fXdQgTvt_bgqt9zd5YaBeE","nCQQXQHKGjPCb7jkd8q2U-aCTjZMxL3s","2boGLV7TonMex8-nrT6EGat9zd5YaBeE","EyZA15nkwWscm7frOkjZTat9zd5YaBeE","-c4jG-fMiNon5YWAJsFHL6t9zd5YaBeE","H61DdE5Vi0EXcEpRUKdIYw==","tXj4R_vFxK-R5VTA2vgDdw==","S2764_hHgM2rfc3eWGgXhA==","En8lWJ3nzVtlxr3-Uov13g==","44MJ0fEL5_qN-q_FBH-Y9w==","D_dfJkSwg-S1Kl-rfGc5AQ==","zEVsjuufSa0X4wEzGAL0B6t9zd5YaBeE","Ut7U2FoLGuwrsva6S_zulKt9zd5YaBeE","eMC6YDLJCoOJa3g1nwCBuqt9zd5YaBeE","CpDDankUq_eO50zN65Zv_Kt9zd5YaBeE"]
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:208:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:274:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:385:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:248:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:463:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:438:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:413:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at safeGet (/opt/jd/scripts/jd_crazy_joy.js:666:21)
+    at /opt/jd/scripts/jd_crazy_joy.js:497:15
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/opt/jd/scripts/jd_crazy_joy.js:741:4869)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+京东服务器访问数据为空，请检查自身设备网络情况
+
+==============📣系统通知📣==============
+crazyJoy任务
+京东账号2 jd_74a8d71c978d9
+
+当前信息：0京豆，0金币
+
+🔔crazyJoy任务, 结束! 🕛 26.307 秒
+

@@ -1,0 +1,393 @@
+
+🔔京喜工厂, 开始!
+
+====================共4个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：6/30/2021, 2:53:47 PM=====================
+
+获取签名参数成功！
+fp: 3419453772579162
+token: tk01wa81d1c07a8nakhVV090bHVGGOC/gkvfafwwRSHeUd8QA/0+xFRuTkahOCYt7kJgWVepst0ac859ggEp67AmCs6r
+enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='uOiETtzyFlH4';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+拼团活动ID: 获取成功 bozIUUFcANuUdWpw3QdvPw==
+
+开始获取京喜工厂配置文件
+
+您的互助码选择的是用&隔开
+
+共4个京东账号
+
+您提供了0个账号的京喜工厂助力码
+
+
+******开始【京东账号1】15631692383_p*********
+
+再加电力可开红包
+
+当前电力：34
+当前等级：8
+
+【京东账号1（15631692383_p）的京喜工厂好友互助码】jLuj5y4OynbjOLDt2boGNg==
+已投入电力：757700
+所需电力：780000
+生产进度：97.14%
+
+
+预计最快还需 【0.13天】生产完毕
+
+
+
+
+你今日还能帮好友打工（0/3）次
+
+
+【今日招工进度】0/14
+
+今日助力好友机会已耗尽
+
+发电机：当前 21.3 电力，最大值 510 电力
+
+本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+
+收取电力成功: 共22 
+完成任务：共领取22电力
+投入失败，电力不足，快去做任务吧~
+
+团活动ID  bozIUUFcANuUdWpw3QdvPw==
+团ID  NgUCn1YP2Pbibn28R4PCmg==
+
+今日剩余开团次数：2次
+
+开团情况:1/7
+
+
+此团未达领取团奖励人数：7人
+
+6/30/2021, 5:51:19 AM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/29/2021, 5:50:38 PM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/30/2021, 12:54:16 AM参加团主【15*3_p】的奖励已经领取成功
+6/29/2021, 5:50:30 AM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/28/2021, 4:50:47 PM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/29/2021, 12:53:53 AM参加团主【15*3_p】的奖励已经领取成功
+6/28/2021, 4:50:45 AM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/27/2021, 4:50:37 PM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+6/28/2021, 12:54:13 AM参加团主【15*3_p】的奖励已经领取成功
+6/27/2021, 4:50:34 AM参加团主【jLuj5y4OynbjOLDt2boGNg==】失败
+
+  商品名     兑换状态
+芒果干    已兑换
+芋泥酥6枚    已兑换
+冰箱除味剂4盒    已兑换
+统一干脆面    兑换超时
+
+【京东账号1】15631692383_p
+【生产商品】平板拖把
+【当前等级】研究员 8
+【生产进度】97.14%
+【招工进度】0/14
+【收取发电站】收取成功，获得 22 电力
+【每日任务】领奖成功，共计 22 电力
+【投入电力】投入失败，电力不足，快去做任务吧~
+【收取自己零件】获得0电力
+【收取好友零件】获得0电力
+
+
+******开始【京东账号2】jd_74a8d71c978d9*********
+
+再加0.04%电力可开红包
+
+当前电力：50
+当前等级：3
+
+【京东账号2（jd_74a8d71c978d9）的京喜工厂好友互助码】hVdButlHZykF-_RZaC6F1w==
+已投入电力：9047900
+所需电力：9560000
+生产进度：94.64%
+
+
+预计最快还需 【2.96天】生产完毕
+
+
+
+
+你今日还能帮好友打工（3/3）次
+
+
+【今日招工进度】0/10
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第2个京东账号将要助力的好友["gB99tYLjvPcEFloDgamoBw==","7dluIKQMp0bySgcr8AqFgw=="]
+助力朋友[gB99tYLjvPcEFloDgamoBw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+助力朋友[7dluIKQMp0bySgcr8AqFgw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+发电机：当前 360 电力，最大值 360 电力
+发电机：电力可翻倍并收获
+收取电力成功: 共720 
+完成任务：共领取720电力
+成功投入电力700电力
+"Timeout awaiting 'request' for 10000ms"
+京喜工厂 API请求失败，请检查网路重试
+
+团活动ID  bozIUUFcANuUdWpw3QdvPw==
+团ID  -uXH2OZ8xLG7Cgqu8LkBdQ==
+
+今日剩余开团次数：2次
+
+开团情况:1/7
+
+
+此团未达领取团奖励人数：7人
+
+6/21/2021, 7:53:48 AM参加团主【hVdButlHZykF-_RZaC6F1w==】失败
+6/20/2021, 3:52:04 PM参加团主【hVdButlHZykF-_RZaC6F1w==】失败
+6/30/2021, 9:55:32 AM参加团主【hVdButlHZykF-_RZaC6F1w==】失败
+6/26/2021, 2:53:39 PM参加团主【hVdButlHZykF-_RZaC6F1w==】失败
+6/24/2021, 12:52:21 PM参加团主【hVdButlHZykF-_RZaC6F1w==】失败
+
+  商品名     兑换状态
+不锈钢多用盆    已兑换
+
+【京东账号2】jd_74a8d71c978d9
+【生产商品】平板拖把
+【当前等级】金牌学徒 3
+【生产进度】94.64%
+【招工进度】0/10
+【收取发电站】收取成功，获得 720 电力
+【每日任务】领奖成功，共计 720 电力
+【投入电力】投入成功，共计 700 电力
+【收取自己零件】获得0电力
+【收取好友零件】获得0电力
+
+
+******开始【京东账号3】chao4596758*********
+
+【提示】京东账号3[chao4596758]京喜工厂活动未开始
+请手动去京东APP->游戏与互动->查看更多->京喜工厂 开启活动
+
+
+
+你今日还能帮好友打工（3/3）次
+
+
+【今日招工进度】0/8
+由于您第3个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第3个京东账号将要助力的好友["-OvElMzqeyeGBWazWYjI1Q=="]
+助力朋友[-OvElMzqeyeGBWazWYjI1Q==]失败：好友存储电力已达上限,暂不可打工哦~
+
+******开始【京东账号4】jd_46df9eaa780aa*********
+
+【提示】京东账号4[jd_46df9eaa780aa]京喜工厂活动未开始
+请手动去京东APP->游戏与互动->查看更多->京喜工厂 开启活动
+
+
+
+你今日还能帮好友打工（3/3）次
+
+
+【今日招工进度】0/8
+由于您第4个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第4个京东账号将要助力的好友["GFwo6PntxDHH95ZRzZ5uAg=="]
+助力朋友[GFwo6PntxDHH95ZRzZ5uAg==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+"Timeout awaiting 'request' for 10000ms"
+京喜工厂 API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+京喜工厂 API请求失败，请检查网路重试
+
+账号15631692383_p 参加作者lxk0301的团 【5Hb-6SfNOoma4hgfsRut3A==】
+参团失败：{"msg":"您已成团","nowTime":1625036163,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【LtRUC5i4DpY6UO_-raF_rA==】
+参团失败：{"msg":"您已成团","nowTime":1625036165,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【v8_1h9NDjf-TDJSIwT9IlA==】
+参团失败：{"msg":"您已成团","nowTime":1625036166,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【wUdsXUAulBmcZONh7uiEBA==】
+参团失败：{"msg":"您已成团","nowTime":1625036167,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【t2PaujI3peXpQXoErEnlOg==】
+参团失败：{"msg":"您已成团","nowTime":1625036168,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【X_L-dwx8rgArQNQckhka5w==】
+参团失败：{"msg":"您已成团","nowTime":1625036169,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【iOm2D9rUO_-ilxraNZAuqw==】
+参团失败：{"msg":"您已成团","nowTime":1625036170,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【rEmgQfdfAL3SQAS1bP843A==】
+参团失败：{"msg":"您已成团","nowTime":1625036181,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【KKRl95qxwSye_YHQ5YUGRg==】
+参团失败：{"msg":"您已成团","nowTime":1625036183,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【7VFrD6b70o5bN7-8zZvZww==】
+参团失败：{"msg":"您已成团","nowTime":1625036184,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【GIazjlu0pPLpAb0U6wX39Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036185,"ret":10209}
+
+
+账号15631692383_p 参加作者lxk0301的团 【po5UOimzRyOnKWLabc5U-Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036186,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【5Hb-6SfNOoma4hgfsRut3A==】
+参团失败：{"msg":"您已成团","nowTime":1625036233,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【LtRUC5i4DpY6UO_-raF_rA==】
+参团失败：{"msg":"您已成团","nowTime":1625036234,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【v8_1h9NDjf-TDJSIwT9IlA==】
+参团失败：{"msg":"您已成团","nowTime":1625036235,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【wUdsXUAulBmcZONh7uiEBA==】
+参团失败：{"msg":"您已成团","nowTime":1625036236,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【t2PaujI3peXpQXoErEnlOg==】
+参团失败：{"msg":"您已成团","nowTime":1625036237,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【X_L-dwx8rgArQNQckhka5w==】
+参团失败：{"msg":"您已成团","nowTime":1625036238,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【iOm2D9rUO_-ilxraNZAuqw==】
+参团失败：{"msg":"您已成团","nowTime":1625036240,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【rEmgQfdfAL3SQAS1bP843A==】
+参团失败：{"msg":"您已成团","nowTime":1625036241,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【KKRl95qxwSye_YHQ5YUGRg==】
+参团失败：{"msg":"您已成团","nowTime":1625036242,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【7VFrD6b70o5bN7-8zZvZww==】
+参团失败：{"msg":"您已成团","nowTime":1625036243,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【GIazjlu0pPLpAb0U6wX39Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036244,"ret":10209}
+
+
+账号jd_74a8d71c978d9 参加作者lxk0301的团 【po5UOimzRyOnKWLabc5U-Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036245,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【5Hb-6SfNOoma4hgfsRut3A==】
+参团失败：{"msg":"您已成团","nowTime":1625036287,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【LtRUC5i4DpY6UO_-raF_rA==】
+参团失败：{"msg":"您已成团","nowTime":1625036293,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【v8_1h9NDjf-TDJSIwT9IlA==】
+参团失败：{"msg":"您已成团","nowTime":1625036294,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【wUdsXUAulBmcZONh7uiEBA==】
+参团失败：{"msg":"您已成团","nowTime":1625036295,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【t2PaujI3peXpQXoErEnlOg==】
+参团失败：{"msg":"您已成团","nowTime":1625036296,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【X_L-dwx8rgArQNQckhka5w==】
+参团失败：{"msg":"您已成团","nowTime":1625036297,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【iOm2D9rUO_-ilxraNZAuqw==】
+参团失败：{"msg":"您已成团","nowTime":1625036304,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【rEmgQfdfAL3SQAS1bP843A==】
+参团失败：{"msg":"您已成团","nowTime":1625036305,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【KKRl95qxwSye_YHQ5YUGRg==】
+参团失败：{"msg":"您已成团","nowTime":1625036306,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【7VFrD6b70o5bN7-8zZvZww==】
+参团失败：{"msg":"您已成团","nowTime":1625036307,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【GIazjlu0pPLpAb0U6wX39Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036308,"ret":10209}
+
+
+账号chao4596758 参加作者lxk0301的团 【po5UOimzRyOnKWLabc5U-Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036314,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【5Hb-6SfNOoma4hgfsRut3A==】
+参团失败：{"msg":"您已成团","nowTime":1625036354,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【LtRUC5i4DpY6UO_-raF_rA==】
+参团失败：{"msg":"您已成团","nowTime":1625036355,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【v8_1h9NDjf-TDJSIwT9IlA==】
+参团失败：{"msg":"您已成团","nowTime":1625036356,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【wUdsXUAulBmcZONh7uiEBA==】
+参团失败：{"msg":"您已成团","nowTime":1625036358,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【t2PaujI3peXpQXoErEnlOg==】
+参团失败：{"msg":"您已成团","nowTime":1625036364,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【X_L-dwx8rgArQNQckhka5w==】
+参团失败：{"msg":"您已成团","nowTime":1625036365,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【iOm2D9rUO_-ilxraNZAuqw==】
+参团失败：{"msg":"您已成团","nowTime":1625036366,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【rEmgQfdfAL3SQAS1bP843A==】
+参团失败：{"msg":"您已成团","nowTime":1625036367,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【KKRl95qxwSye_YHQ5YUGRg==】
+参团失败：{"msg":"您已成团","nowTime":1625036368,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【7VFrD6b70o5bN7-8zZvZww==】
+参团失败：{"msg":"您已成团","nowTime":1625036369,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【GIazjlu0pPLpAb0U6wX39Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036371,"ret":10209}
+
+
+账号jd_46df9eaa780aa 参加作者lxk0301的团 【po5UOimzRyOnKWLabc5U-Q==】
+参团失败：{"msg":"您已成团","nowTime":1625036377,"ret":10209}
+
+
+🔔京喜工厂, 结束! 🕛 350.542 秒
+

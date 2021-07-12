@@ -1,0 +1,70 @@
+
+🔔京喜财富岛, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/10/2021, 12:08:08 AM=====================
+
+开始获取京喜财富岛配置文件
+
+您提供了0个账号的京喜财富岛助力码
+
+"getaddrinfo ENOTFOUND cactus.jd.com"
+request_algo 签名参数API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+
+
+开始【京东账号1】15631692383_p
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第1个京东账号将要助力的好友["F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 QueryUserInfo API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 QuerySignListV2 API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at getMoney (/opt/jd/scripts/jd_cfd.js:352:25)
+    at cfd (/opt/jd/scripts/jd_cfd.js:129:11)
+    at async /opt/jd/scripts/jd_cfd.js:90:7
+
+❗️京喜财富岛, 错误!
+
+
+开始【京东账号2】jd_74a8d71c978d9
+
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+开始
+第2个京东账号将要助力的好友["F45CB4F07997DFE748E5656521A9034446A1568F6950206B0D44A5664662275D"]
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 QueryUserInfo API请求失败，请检查网路重试
+"Timeout awaiting 'request' for 10000ms"
+京喜财富岛 QuerySignListV2 API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at getMoney (/opt/jd/scripts/jd_cfd.js:352:25)
+    at cfd (/opt/jd/scripts/jd_cfd.js:129:11)
+    at async /opt/jd/scripts/jd_cfd.js:90:7
+
+
+寻宝大作战，助力作者
+
+
+
+寻宝大作战，助力作者
+
+
+🔔京喜财富岛, 结束! 🕛 293.296 秒
+

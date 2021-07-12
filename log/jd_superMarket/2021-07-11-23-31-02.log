@@ -1,0 +1,117 @@
+
+🔔东东超市, 开始!
+
+====================共2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：7/11/2021, 11:31:02 PM=====================
+
+共2个京东账号
+
+
+开始【京东账号1】Ymh__Sirius
+
+当前无金币可领
+
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+
+收取蓝币失败：今日小费已达上限
+
+日常赚钱任务       完成状态
+ 加购任务         未完成 0/4
+ 入小游戏         已完成 1/1
+ 关注商品         已完成 4/4
+ 开会员卡         已完成 1/1
+ 逛会场          已完成 7/7
+ 关注店铺         已完成 4/4
+ 去购物          未完成 0/1
+ 卖货能手         已完成 1/1
+
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+
+设置的为不抽奖
+
+[普通货架] 已解锁，当前等级：40级
+[冰柜] 已解锁，当前等级：40级
+[水果摊] 已解锁，当前等级：36级
+[酒柜] 未解锁
+
+限时商品0601已上架
+
+收取营业额：获得 37449
+
+【京东账号1】Ymh__Sirius
+【收取小费】今日小费已达上限
+【第7日签到】当日已签到
+【店铺等级】160
+【总蓝币】2200600个
+
+
+开始【京东账号2】Ycp_Dream
+
+当前无金币可领
+
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+
+【京东账号2】Ycp_Dream 第1次领蓝币成功，获得10个
+
+【京东账号2】Ycp_Dream 第2次领蓝币成功，获得10个
+
+【京东账号2】Ycp_Dream 第3次领蓝币成功，获得10个
+
+【京东账号2】Ycp_Dream 第4次领蓝币成功，获得20个
+
+【京东账号2】Ycp_Dream 第5次领蓝币成功，获得20个
+
+【京东账号2】Ycp_Dream 第6次领蓝币成功，获得20个
+
+【京东账号2】Ycp_Dream 第7次领蓝币成功，获得10个
+
+
+日常赚钱任务       完成状态
+ 加购任务         未完成 0/4
+ 入小游戏         已完成 1/1
+ 关注商品         未完成 0/4
+ 开会员卡         未完成 0/1
+ 逛会场          未完成 0/7
+ 关注店铺         未完成 0/4
+ 去购物          未完成 0/1
+ 卖货能手         未完成 0/1
+
+领取做完任务的奖励{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"blueCoin":2000,"taskId":"31S9ZZREmUhK5C9MVSS3NnrbKXkt","totalBlueCoin":436600,"type":11},"success":true}}
+
+关注商品
+关注商品领蓝币结果{"code":0,"data":{"bizCode":0,"bizMsg":"","result":{"finishNum":1,"targetNum":4,"taskId":"vCDk54JPhtHZB2RAoEj5HYgDN4c","taskStatus":0},"success":true}}
+开始开卡领蓝币任务
+开卡领蓝币结果{"code":0,"data":{"bizCode":0,"bizMsg":"","result":{"finishNum":1,"targetNum":1,"taskId":"4EXGsLijuUTZqEM633VZvhHdeoKD","taskStatus":1},"success":true}}
+开始逛会场
+浏览会场得蓝币结果{"code":0,"data":{"bizCode":0,"bizMsg":"","result":{"finishNum":1,"targetNum":7,"taskId":"3SDrgPcRVeSRagnazCV1o1BKcUBr","taskStatus":0},"success":true}}
+开始关注店铺
+关注店铺得蓝币结果{"code":0,"data":{"bizCode":0,"bizMsg":"","result":{"finishNum":1,"targetNum":4,"taskId":"6CNXXEBFPBtBAMST5vhqgLjaNXx","taskStatus":0},"success":true}}
+
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+
+设置的为不抽奖
+
+普通货架可升级
+
+店铺升级结果:{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"category":1,"id":"shelf-1","level":37,"name":"普通货架","status":0,"turnoverSpeed":17.4},"success":true},"msg":"调用成功"}
+
+[冰柜] 未解锁
+[水果摊] 未解锁
+[酒柜] 未解锁
+发现限时商品0601
+
+限时商品售卖结果:{"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"reward":1000,"totalBlueCoins":437600},"success":true},"msg":"调用成功"}
+
+
+收取营业额：获得 74736
+
+【京东账号2】Ycp_Dream
+【收取小费】100个
+【第7日签到】成功，奖励500蓝币
+【店铺等级】59
+【总蓝币】437600个
+
+
+🔔东东超市, 结束! 🕛 127.245 秒
+
