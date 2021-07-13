@@ -1,22 +1,30 @@
 /**
- * 京喜牧场
- * 买、喂、收蛋、锄草、挑逗
- * // TODO
- * 领奖、任务
+ * 京喜财富岛
+ * 包含雇佣导游，建议每小时1次
+ *
+ * 此版本暂定默认帮助HelloWorld，帮助助力池
+ * export CFD_HELP_HW = true    // 帮助HelloWorld
+ * export CFD_HELP_POOL = true  // 帮助助力池
+ *
+ * 使用jd_env_copy.js同步js环境变量到ts
+ * 使用jd_ts_test.ts测试环境变量
  */
 
 import {format} from 'date-fns';
-import {writeFileSync} from 'fs'
 import axios from 'axios';
 import USER_AGENT from './TS_USER_AGENTS';
+import * as dotenv from 'dotenv';
 
 const CryptoJS = require('crypto-js')
 
-// console.log('时间戳：', format(new Date(), 'yyyyMMddHHmmssSSS'));
-
+dotenv.config()
 let appId: number = 10028, fingerprint: string | number, token: string, enCryptMethodJD: any;
-let cookie: string = '', cookiesArr: Array<string> = [], res: any = '', shareCodes: Array<string>;
-let homePageInfo: any;
+let cookie: string = '', cookiesArr: Array<string> = [], res: any = '', shareCodes: string[] = [];
+let CFD_HELP_HW: string = process.env.CFD_HELP_HW ? process.env.CFD_HELP_HW : "true";
+console.log('帮助HelloWorld:', CFD_HELP_HW)
+let CFD_HELP_POOL: string = process.env.CFD_HELP_POOL ? process.env.CFD_HELP_POOL : "true";
+console.log('帮助助力池:', CFD_HELP_POOL)
+
 
 let UserName: string, index: number, isLogin: boolean, nickName: string
 !(async () => {
@@ -29,15 +37,9 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
     index = i + 1;
     isLogin = true;
     nickName = '';
-    await TotalBean();
     console.log(`\n开始【京东账号${index}】${nickName || UserName}\n`);
 
-    for (i = 0; i < 20; i++) {
-      res = await speedUp('_cfd_t,bizCode,dwEnv,ptag,source,strBuildIndex,strZone')
-      console.log(res)
-      console.log('今日热气球:', res.dwTodaySpeedPeople, '/', 20)
-      await wait(2000)
-    }
+    await makeShareCodes();
 
     // 任务1
     let tasks: any
@@ -53,6 +55,34 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
       }
     }
      */
+
+
+    // res = await api('story/SpecialUserOper',
+    //   '_cfd_t,bizCode,ddwTriggerDay,dwEnv,dwType,ptag,source,strStoryId,strZone,triggerType',
+    //   {strStoryId: 'stroy_1626065998453014_1', dwType: '2', triggerType: 0, ddwTriggerDay: 1626019200})
+    // console.log('船到:', res)
+    // await wait(31000)
+    // res = await api('story/SpecialUserOper',
+    //   '_cfd_t,bizCode,ddwTriggerDay,dwEnv,dwType,ptag,source,strStoryId,strZone,triggerType',
+    //   {strStoryId: 'stroy_1626065998453014_1', dwType: '3', triggerType: 0, ddwTriggerDay: 1626019200})
+    // console.log('下船:', res)
+
+    // 导游
+    res = await api('user/EmployTourGuideInfo', '_cfd_t,bizCode,dwEnv,ptag,source,strZone')
+
+    if (!res.TourGuideList) {
+      console.log('手动雇佣4个试用导游')
+    } else {
+      for (let e of res.TourGuideList) {
+        if (e.strBuildIndex !== 'food' && e.ddwRemainTm === 0) {
+          let employ: any = await api('user/EmployTourGuide', '_cfd_t,bizCode,ddwConsumeCoin,dwEnv,dwIsFree,ptag,source,strBuildIndex,strZone',
+              {ddwConsumeCoin: e.ddwCostCoin, dwIsFree: 0, strBuildIndex: e.strBuildIndex})
+          console.log(employ)
+          await wait(3000)
+        }
+      }
+    }
+
     tasks = await mainTask('GetUserTaskStatusList', '_cfd_t,bizCode,dwEnv,ptag,source,strZone,taskId', {taskId: 0});
     for (let t of tasks.data.userTaskStatusList) {
       if (t.dateType === 2) {
@@ -90,37 +120,55 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
       await wait(1000)
     }
   }
-})()
 
-function speedUp(stk: string, params: Params = {}) {
-  return new Promise(async resolve => {
-    let url = `https://m.jingxi.com/jxbfd/user/SpeedUp?strZone=jxbfd&bizCode=jxbfd&source=jxbfd&dwEnv=7&_cfd_t=${Date.now()}&ptag=&strBuildIndex=food&_ste=1&_=${Date.now()}&sceneval=2&_stk=${encodeURIComponent(stk)}`
-    if (Object.keys(params).length !== 0) {
-      let key: (keyof Params)
-      for (key in params) {
-        if (params.hasOwnProperty(key))
-          url += `&${key}=${params[key]}`
+  // 获取随机助力码
+  if (CFD_HELP_HW === 'true') {
+    shareCodes = [
+      ...shareCodes,
+      ...[
+        '845605C0CDB46E027B53DBFD505C152CE2FDBBFB74ABBD8CB9FD0FE0ACC43FF8',
+        '84A1A690E9AA8B7267F347E319954401BF810183738AA300E8FCFDEE97F12036',
+        'C533B4DCDAA0EA415CEBC49F13851C2556F2BE27E8D4026713C7D5229A5F0C55',
+      ]
+    ]
+  }
+  if (CFD_HELP_POOL === 'true') {
+    let {data} = await axios.get('https://api.sharecode.ga/api/jxcfd/20')
+    console.log('获取到20个随机助力码:', data.data)
+    shareCodes = [...shareCodes, ...data.data]
+  } else {
+    console.log('你的设置是不帮助助力池！')
+  }
+  for (let i = 0; i < cookiesArr.length; i++) {
+    for (let j = 0; j < shareCodes.length; j++) {
+      cookie = cookiesArr[i]
+      console.log('去助力:', shareCodes[j])
+      res = await api('story/helpbystage', '_cfd_t,bizCode,dwEnv,ptag,source,strShareId,strZone', {strShareId: shareCodes[j]})
+      console.log(res)
+      if (res.sErrMsg === '参数错误') {
+        console.log('可合理举报错误助力码')
       }
+      if (res.sErrMsg === '今日助力次数达到上限，明天再来帮忙吧~')
+        break
+      await wait(3000)
     }
-    url += '&h5st=' + decrypt(stk, url)
-    let {data} = await axios.get(url, {
-      headers: {
-        'Host': 'm.jingxi.com',
-        'Referer': 'https://st.jingxi.com/',
-        'User-Agent': 'jdpingou;android;4.11.0;10;b21fede89fb4bc77;network/wifi;model/M2004J7AC;appBuild/17304;partner/xiaomi;;session/535;aid/b21fede89fb4bc77;oaid/dcb5f3e835497cc3;pap/JA2019_3111789;brand/Xiaomi;eu/8313831616035373;fv/7333732616631643;Mozilla/5.0 (Linux; Android 10; M2004J7AC Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36',
-        'Cookie': cookie
-      }
-    })
-    resolve(data)
-  })
-}
+  }
+})()
 
 interface Params {
   strBuildIndex?: string,
   ddwCostCoin?: number,
   taskId?: number,
   dwType?: string,
-  configExtra?: string
+  configExtra?: string,
+  strStoryId?: string,
+  triggerType?: number,
+  ddwTriggerDay?: number,
+  ddwConsumeCoin?: number,
+  dwIsFree?: number,
+  ddwTaskId?: string,
+  strShareId?: string,
+  strMarkList?: string
 }
 
 function api(fn: string, stk: string, params: Params = {}) {
@@ -142,7 +190,7 @@ function api(fn: string, stk: string, params: Params = {}) {
       headers: {
         'Host': 'm.jingxi.com',
         'Referer': 'https://st.jingxi.com/',
-        'User-Agent': 'jdpingou;android;4.11.0;10;b21fede89fb4bc77;network/wifi;model/M2004J7AC;appBuild/17304;partner/xiaomi;;session/535;aid/b21fede89fb4bc77;oaid/dcb5f3e835497cc3;pap/JA2019_3111789;brand/Xiaomi;eu/8313831616035373;fv/7333732616631643;Mozilla/5.0 (Linux; Android 10; M2004J7AC Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36',
+        'User-Agent': USER_AGENT,
         'Cookie': cookie
       }
     })
@@ -163,21 +211,23 @@ function mainTask(fn: string, stk: string, params: Params = {}) {
     url += '&h5st=' + decrypt(stk, url)
     let {data} = await axios.get(url, {
       headers: {
-        'Sec-Fetch-Dest': 'script',
-        'X-Proxyman-Repeated-ID': '09920498',
-        'Accept': '*/*',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
         'X-Requested-With': 'com.jd.pingou',
         'Referer': 'https://st.jingxi.com/',
         'Host': 'm.jingxi.com',
-        'User-Agent': 'jdpingou;android;4.11.0;10;b21fede89fb4bc77;network/wifi;model/M2004J7AC;appBuild/17304;partner/xiaomi;;session/535;aid/b21fede89fb4bc77;oaid/dcb5f3e835497cc3;pap/JA2019_3111789;brand/Xiaomi;eu/8313831616035373;fv/7333732616631643;Mozilla/5.0 (Linux; Android 10; M2004J7AC Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36',
-        'Sec-Fetch-Site': 'same-site',
-        'Connection': 'close',
-        'Sec-Fetch-Mode': 'no-cors',
+        'User-Agent': USER_AGENT,
         'Cookie': cookie
       }
     })
     resolve(data)
+  })
+}
+
+function makeShareCodes() {
+  return new Promise<void>(async resolve => {
+    res = await api('user/QueryUserInfo', '_cfd_t,bizCode,ddwTaskId,dwEnv,ptag,source,strShareId,strZone', {ddwTaskId: '', strShareId: '', strMarkList: 'undefined'})
+    console.log('助力码:', res.strMyShareId)
+    shareCodes.push(res.strMyShareId)
+    resolve()
   })
 }
 
@@ -251,38 +301,6 @@ function requireConfig() {
     })
     console.log(`共${cookiesArr.length}个京东账号\n`)
     resolve()
-  })
-}
-
-function TotalBean() {
-  return new Promise<void>(async resolve => {
-    axios.get('https://me-api.jd.com/user_new/info/GetJDUserInfoUnion', {
-      headers: {
-        Host: "me-api.jd.com",
-        Connection: "keep-alive",
-        Cookie: cookie,
-        "User-Agent": USER_AGENT,
-        "Accept-Language": "zh-cn",
-        "Referer": "https://home.m.jd.com/myJd/newhome.action?sceneval=2&ufc=&",
-        "Accept-Encoding": "gzip, deflate, br"
-      }
-    }).then(res => {
-      if (res.data) {
-        let data = res.data
-        if (data['retcode'] === "1001") {
-          isLogin = false; //cookie过期
-          return;
-        }
-        if (data['retcode'] === "0" && data['data'] && data.data.hasOwnProperty("userInfo")) {
-          nickName = data.data.userInfo.baseInfo.nickname;
-        }
-      } else {
-        console.log('京东服务器返回空数据');
-      }
-    }).catch(e => {
-      console.log('Error:', e)
-    })
-    resolve();
   })
 }
 
