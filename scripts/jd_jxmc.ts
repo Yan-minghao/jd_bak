@@ -7,16 +7,17 @@
 
 import {format} from 'date-fns';
 import axios from 'axios';
-import USER_AGENT from './TS_USER_AGENTS';
-import {getBeanShareCode, getFarmShareCode} from "./TS_USER_AGENTS";
+import USER_AGENT, {requireConfig, TotalBean, getBeanShareCode, getFarmShareCode, wait} from './TS_USER_AGENTS';
 import {Md5} from "ts-md5";
 
 const CryptoJS = require('crypto-js')
+const notify = require('./sendNotify')
+const A = require('./tools/jd_jxmcToken')
 
 let appId: number = 10028, fingerprint: string | number, token: string, enCryptMethodJD: any;
-let cookie: string = '', cookiesArr: Array<string> = [], res: any = '', shareCodes: string[] = [];
+let cookie: string = '', res: any = '', shareCodes: string[] = [];
 let homePageInfo: any;
-let UserName: string, index: number, isLogin: boolean, nickName: string
+let UserName: string, index: number;
 
 let HELP_HW: string = process.env.HELP_HW ? process.env.HELP_HW : "true";
 console.log('帮助HelloWorld:', HELP_HW)
@@ -25,18 +26,27 @@ console.log('帮助助力池:', HELP_POOL)
 
 !(async () => {
   await requestAlgo();
-  await requireConfig();
+  let cookiesArr: any = await requireConfig();
 
   for (let i = 0; i < cookiesArr.length; i++) {
     cookie = cookiesArr[i];
     UserName = decodeURIComponent(cookie.match(/pt_pin=([^;]*)/)![1])
     index = i + 1;
-    isLogin = true;
-    nickName = '';
-    await TotalBean();
+    let {isLogin, nickName}: any = await TotalBean(cookie)
+    if (!isLogin) {
+      notify.sendNotify(__filename.split('/').pop(), `cookie已失效\n京东账号${index}：${nickName || UserName}`)
+      continue
+    }
     console.log(`\n开始【京东账号${index}】${nickName || UserName}\n`);
 
     homePageInfo = await api('queryservice/GetHomePageInfo', 'channel,isgift,sceneid', {isgift: 0})
+    let lastgettime: number
+    if (homePageInfo.data?.cow?.lastgettime) {
+      lastgettime = homePageInfo.data.cow.lastgettime
+    } else {
+      continue
+    }
+
     let food: number = 0
     try {
       food = homePageInfo.data.materialinfo[0].value;
@@ -57,6 +67,11 @@ console.log('帮助助力池:', HELP_POOL)
 
     console.log('现有草:', food);
     console.log('金币:', coins);
+
+    // 收牛牛
+    res = await api('operservice/GetCoin', 'channel,sceneid,token', {token: A(lastgettime)})
+    if (res.ret === 0)
+      console.log('收牛牛：', res.data.addcoin)
 
     // 签到
     res = await api('queryservice/GetSignInfo', 'channel,sceneid')
@@ -96,7 +111,7 @@ console.log('帮助助力池:', HELP_POOL)
         console.log(res)
         break
       }
-      await wait(1500)
+      await wait(4000)
     }
     await wait(2000)
     while (food >= 10) {
@@ -164,7 +179,7 @@ console.log('帮助助力池:', HELP_POOL)
    */
   if (HELP_POOL === 'true') {
     try {
-      let {data} = await axios.get('https://api.sharecode.ga/api/jxmc/6')
+      let {data} = await axios.get('https://api.sharecode.ga/api/jxmc/6', {timeout: 10000})
       console.log('获取到20个随机助力码:', data.data)
       shareCodes = [...shareCodes, ...data.data]
     } catch (e) {
@@ -198,7 +213,8 @@ interface Params {
   taskId?: number
   configExtra?: string,
   sharekey?: string,
-  currdate?: string
+  currdate?: string,
+  token?: string
 }
 
 function api(fn: string, stk: string, params: Params = {}) {
@@ -231,15 +247,15 @@ function api(fn: string, stk: string, params: Params = {}) {
 function getTask() {
   return new Promise<number>(async resolve => {
     let tasks: any = await taskAPI('GetUserTaskStatusList', 'bizCode,dateType,source')
-    let doTaskRes: any = {ret: 1}, code: number = 1
+    let doTaskRes: any = {ret: 1};
     for (let t of tasks.data.userTaskStatusList) {
       if ((t.dateType === 1 || t.dateType === 2) && t.completedTimes == t.targetTimes && t.awardStatus === 2) {
         // 成就任务
         t.dateType === 1
-            ?
-            console.log('成就任务可领取:', t.taskName, t.completedTimes, t.targetTimes)
-            :
-            console.log('每日任务可领取:', t.taskName, t.completedTimes, t.targetTimes)
+          ?
+          console.log('成就任务可领取:', t.taskName, t.completedTimes, t.targetTimes)
+          :
+          console.log('每日任务可领取:', t.taskName, t.completedTimes, t.targetTimes)
 
         doTaskRes = await taskAPI('Award', 'bizCode,source,taskId', {taskId: t.taskId})
         await wait(4000)
@@ -295,17 +311,17 @@ function makeShareCodes(code: string) {
     let farm: string = await getFarmShareCode(cookie)
     let pin: string = cookie.match(/pt_pin=([^;]*)/)![1]
     pin = Md5.hashStr(pin)
-    await axios.get(`https://api.sharecode.ga/api/autoInsert?db=jxmc&code=${code}&bean=${bean}&farm=${farm}&pin=${pin}`)
-        .then(res => {
-          if (res.data.code === 200)
-            console.log('已自动提交助力码')
-          else
-            console.log('提交失败！已提交farm的cookie才可提交cfd')
-          resolve(200)
-        })
-        .catch(e => {
-          reject('访问助力池出错')
-        })
+    await axios.get(`https://api.sharecode.ga/api/autoInsert?db=jxmc&code=${code}&bean=${bean}&farm=${farm}&pin=${pin}`, {timeout: 10000})
+      .then(res => {
+        if (res.data.code === 200)
+          console.log('已自动提交助力码')
+        else
+          console.log('提交失败！已提交farm的cookie才可提交cfd')
+        resolve(200)
+      })
+      .catch(() => {
+        reject('访问助力池出错')
+      })
   })
 }
 
@@ -368,52 +384,6 @@ function decrypt(stk: string, url: string) {
   return encodeURIComponent(["".concat(timestamp.toString()), "".concat(fingerprint.toString()), "".concat(appId.toString()), "".concat(token), "".concat(hash2)].join(";"))
 }
 
-function requireConfig() {
-  return new Promise<void>(resolve => {
-    console.log('开始获取配置文件\n')
-    const jdCookieNode = require('./jdCookie.js');
-    Object.keys(jdCookieNode).forEach((item) => {
-      if (jdCookieNode[item]) {
-        cookiesArr.push(jdCookieNode[item])
-      }
-    })
-    console.log(`共${cookiesArr.length}个京东账号\n`)
-    resolve()
-  })
-}
-
-function TotalBean() {
-  return new Promise<void>(async resolve => {
-    axios.get('https://me-api.jd.com/user_new/info/GetJDUserInfoUnion', {
-      headers: {
-        Host: "me-api.jd.com",
-        Connection: "keep-alive",
-        Cookie: cookie,
-        "User-Agent": USER_AGENT,
-        "Accept-Language": "zh-cn",
-        "Referer": "https://home.m.jd.com/myJd/newhome.action?sceneval=2&ufc=&",
-        "Accept-Encoding": "gzip, deflate, br"
-      }
-    }).then(res => {
-      if (res.data) {
-        let data = res.data
-        if (data['retcode'] === "1001") {
-          isLogin = false; //cookie过期
-          return;
-        }
-        if (data['retcode'] === "0" && data['data'] && data.data.hasOwnProperty("userInfo")) {
-          nickName = data.data.userInfo.baseInfo.nickname;
-        }
-      } else {
-        console.log('京东服务器返回空数据');
-      }
-    }).catch(e => {
-      console.log('Error:', e)
-    })
-    resolve();
-  })
-}
-
 function generateFp() {
   let e = "0123456789";
   let a = 13;
@@ -428,12 +398,4 @@ function getQueryString(url: string, name: string) {
   let r = url.split('?')[1].match(reg);
   if (r != null) return unescape(r[2]);
   return '';
-}
-
-function wait(t: number) {
-  return new Promise<void>(resolve => {
-    setTimeout(() => {
-      resolve()
-    }, t)
-  })
 }

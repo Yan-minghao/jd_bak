@@ -47,18 +47,18 @@ let USER_AGENT = USER_AGENTS[getRandomNumberByRange(0, USER_AGENTS.length)];
 
 async function getBeanShareCode(cookie: string) {
   let {data} = await axios.post('https://api.m.jd.com/client.action',
-      `functionId=plantBeanIndex&body=${escape(
-          JSON.stringify({version: "9.0.0.1", "monitor_source": "plant_app_plant_index", "monitor_refer": ""})
-      )}&appid=ld&client=apple&area=5_274_49707_49973&build=167283&clientVersion=9.1.0`, {
-        headers: {
-          Cookie: cookie,
-          Host: "api.m.jd.com",
-          Accept: "*/*",
-          Connection: "keep-alive",
-          "User-Agent": USER_AGENT
-        }
-      })
-  if (data.data.jwordShareInfo.shareUrl)
+    `functionId=plantBeanIndex&body=${escape(
+      JSON.stringify({version: "9.0.0.1", "monitor_source": "plant_app_plant_index", "monitor_refer": ""})
+    )}&appid=ld&client=apple&area=5_274_49707_49973&build=167283&clientVersion=9.1.0`, {
+      headers: {
+        Cookie: cookie,
+        Host: "api.m.jd.com",
+        Accept: "*/*",
+        Connection: "keep-alive",
+        "User-Agent": USER_AGENT
+      }
+    })
+  if (data.data?.jwordShareInfo?.shareUrl)
     return data.data.jwordShareInfo.shareUrl.split('Uuid=')![1]
   else
     return ''
@@ -81,8 +81,73 @@ async function getFarmShareCode(cookie: string) {
     return ''
 }
 
+function TotalBean(cookie: string) {
+  let totalBean = {
+    isLogin: true,
+    nickName: ''
+  }
+  return new Promise(resolve => {
+    axios.get('https://me-api.jd.com/user_new/info/GetJDUserInfoUnion', {
+      headers: {
+        Host: "me-api.jd.com",
+        Connection: "keep-alive",
+        Cookie: cookie,
+        "User-Agent": USER_AGENT,
+        "Accept-Language": "zh-cn",
+        "Referer": "https://home.m.jd.com/myJd/newhome.action?sceneval=2&ufc=&",
+        "Accept-Encoding": "gzip, deflate, br"
+      }
+    }).then(res => {
+      if (res.data) {
+        let data = res.data
+        if (data['retcode'] === "1001") {
+          totalBean.isLogin = false; //cookie过期
+        }
+        if (data['retcode'] === "0" && data['data'] && data.data.hasOwnProperty("userInfo")) {
+          totalBean.isLogin = true
+          totalBean.nickName = data.data.userInfo.baseInfo.nickname;
+        }
+        resolve(totalBean)
+      } else {
+        console.log('京东服务器返回空数据');
+        resolve(totalBean)
+      }
+    }).catch(e => {
+      console.log('Error:', e)
+      resolve(totalBean)
+    })
+  })
+}
+
+function requireConfig() {
+  let cookiesArr: string[] = []
+  return new Promise(resolve => {
+    console.log('开始获取配置文件\n')
+    const jdCookieNode = require('./jdCookie.js');
+    Object.keys(jdCookieNode).forEach((item) => {
+      if (jdCookieNode[item]) {
+        cookiesArr.push(jdCookieNode[item])
+      }
+    })
+    console.log(`共${cookiesArr.length}个京东账号\n`)
+    resolve(cookiesArr)
+  })
+}
+
+function wait(t: number) {
+  return new Promise<void>(resolve => {
+    setTimeout(() => {
+      resolve()
+    }, t)
+  })
+}
+
 export default USER_AGENT
 export {
+  TotalBean,
   getBeanShareCode,
   getFarmShareCode,
+  requireConfig,
+  wait,
+  getRandomNumberByRange
 }

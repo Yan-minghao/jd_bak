@@ -75,17 +75,17 @@ let joyId1: number;
 function api(fn: string, body: Object): Object {
   return new Promise(async resolve => {
     let {data} = await axios.post("https://api.m.jd.com/",
-        `functionId=${fn}&body=${JSON.stringify(body)}&_t=${Date.now()}&appid=activities_platform`
-        , {
-          headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'User-Agent': USER_AGENT,
-            'Host': 'api.m.jd.com',
-            'Referer': 'https://joypark.jd.com/',
-            'Origin': 'https://joypark.jd.com',
-            'Cookie': cookie
-          }
-        })
+      `functionId=${fn}&body=${JSON.stringify(body)}&_t=${Date.now()}&appid=activities_platform`
+      , {
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'User-Agent': USER_AGENT,
+          'Host': 'api.m.jd.com',
+          'Referer': 'https://joypark.jd.com/',
+          'Origin': 'https://joypark.jd.com',
+          'Cookie': cookie
+        }
+      })
     resolve(data);
   })
 }
